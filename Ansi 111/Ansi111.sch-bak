@@ -442,4 +442,21 @@ Wire Wire Line
 	7000 1350 7250 1350
 Wire Wire Line
 	7450 1350 7700 1350
+Text GLabel 6600 1450 2    50   Input ~ 0
+D-
+Text GLabel 6600 1550 2    50   Input ~ 0
+D+
+$Comp
+L power:GND #PWR?
+U 1 1 5E63771C
+P 7150 1650
+F 0 "#PWR?" H 7150 1400 50  0001 C CNN
+F 1 "GND" H 7155 1477 50  0000 C CNN
+F 2 "" H 7150 1650 50  0001 C CNN
+F 3 "" H 7150 1650 50  0001 C CNN
+	1    7150 1650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6600 1650 7150 1650
 $EndSCHEMATC
