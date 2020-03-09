@@ -1,5 +1,6 @@
 EESchema Schematic File Version 4
-EELAYER 30 0
+LIBS:Voyager104-cache
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -67,6 +68,41 @@ Text GLabel 3175 1300 2    60   Input ~ 0
 D-
 Text GLabel 3175 1400 2    60   Input ~ 0
 D+
+$Comp
+L Device:Q_NPN_BCE Q1
+U 1 1 5A4CAD6E
+P 6425 4875
+F 0 "Q1" H 6625 4925 50  0000 L CNN
+F 1 "DSS60601MZ4-13" H 6625 4825 50  0000 L CNN
+F 2 "TO_SOT_Packages_SMD:SOT-223-3_TabPin2" H 6625 4975 50  0001 C CNN
+F 3 "" H 6425 4875 50  0001 C CNN
+	1    6425 4875
+	1    0    0    -1  
+$EndComp
+Text GLabel 6525 4675 1    60   Input ~ 0
+LEDGND
+$Comp
+L power:GND #PWR02
+U 1 1 5A4CB170
+P 6525 5075
+F 0 "#PWR02" H 6525 4825 50  0001 C CNN
+F 1 "GND" H 6525 4925 50  0000 C CNN
+F 2 "" H 6525 5075 50  0001 C CNN
+F 3 "" H 6525 5075 50  0001 C CNN
+	1    6525 5075
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small RC5
+U 1 1 5A4CB690
+P 5875 4875
+F 0 "RC5" V 5950 4875 50  0000 L CNN
+F 1 "1.5k" V 5950 4700 50  0000 L CNN
+F 2 "Resistors_SMD:R_0603" H 5875 4875 50  0001 C CNN
+F 3 "" H 5875 4875 50  0001 C CNN
+	1    5875 4875
+	0    -1   -1   0   
+$EndComp
 $Comp
 L power:VCC #PWR03
 U 1 1 5AC1D7D7
@@ -240,6 +276,8 @@ Wire Wire Line
 Wire Wire Line
 	3175 1400 3125 1400
 Wire Wire Line
+	5975 4875 6225 4875
+Wire Wire Line
 	3525 4575 3925 4575
 Wire Wire Line
 	3225 4575 3325 4575
@@ -309,6 +347,8 @@ F 3 "" H 1650 5300 50  0001 C CNN
 $EndComp
 Connection ~ 1650 5375
 Wire Wire Line
+	5775 4875 5125 4875
+Wire Wire Line
 	2925 850  3100 850 
 Wire Wire Line
 	3300 3275 3725 3275
@@ -330,12 +370,53 @@ Wire Wire Line
 	1400 5625 1650 5625
 Wire Wire Line
 	1650 5375 1650 5425
+$Comp
+L Connector:AVR-ISP-6 J1
+U 1 1 5B68D1BE
+P 4475 1725
+F 0 "J1" H 4195 1821 50  0000 R CNN
+F 1 "AVR-ISP-6" H 4195 1730 50  0000 R CNN
+F 2 "random-keyboard-parts:Reset_Pretty-Mask" V 4225 1775 50  0001 C CNN
+F 3 " ~" H 3200 1175 50  0001 C CNN
+	1    4475 1725
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0101
+U 1 1 5B69A554
+P 4375 1225
+F 0 "#PWR0101" H 4375 1075 50  0001 C CNN
+F 1 "+5V" H 4390 1398 50  0000 C CNN
+F 2 "" H 4375 1225 50  0001 C CNN
+F 3 "" H 4375 1225 50  0001 C CNN
+	1    4375 1225
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 5B69A5B3
+P 4375 2125
+F 0 "#PWR0102" H 4375 1875 50  0001 C CNN
+F 1 "GND" H 4380 1952 50  0000 C CNN
+F 2 "" H 4375 2125 50  0001 C CNN
+F 3 "" H 4375 2125 50  0001 C CNN
+	1    4375 2125
+	1    0    0    -1  
+$EndComp
+Text GLabel 4875 1725 2    50   Input ~ 0
+SCK
 Text GLabel 3725 3175 2    50   Input ~ 0
 RESET
 Wire Wire Line
 	3725 3175 3725 3275
 Wire Wire Line
 	3725 3275 3925 3275
+Text GLabel 4875 1825 2    50   Input ~ 0
+RESET
+Text GLabel 4875 1625 2    50   Input ~ 0
+MOSI
+Text GLabel 4875 1525 2    50   Input ~ 0
+MISO
 $Comp
 L Type-C:HRO-TYPE-C-31-M-12 USB1
 U 1 1 5BE083A1
@@ -515,6 +596,17 @@ Wire Wire Line
 Connection ~ 3300 3275
 Wire Wire Line
 	2775 3275 2575 3275
+$Comp
+L power:GND #PWR0106
+U 1 1 5C4DF5AA
+P 2575 3275
+F 0 "#PWR0106" H 2575 3025 50  0001 C CNN
+F 1 "GND" H 2580 3102 50  0000 C CNN
+F 2 "" H 2575 3275 50  0001 C CNN
+F 3 "" H 2575 3275 50  0001 C CNN
+	1    2575 3275
+	1    0    0    -1  
+$EndComp
 Wire Wire Line
 	4000 2975 3300 2975
 NoConn ~ 3925 3875
@@ -555,6 +647,12 @@ F 3 "" H 4000 2775 50  0001 C CNN
 	1    4000 2775
 	1    0    0    -1  
 $EndComp
+Text GLabel 5125 4275 2    50   Input ~ 0
+SCK
+Text GLabel 5125 4375 2    50   Input ~ 0
+MOSI
+Text GLabel 5125 4475 2    50   Input ~ 0
+MISO
 Text GLabel 5125 5275 2    60   Input ~ 0
 ROW0
 Text GLabel 5125 5375 2    60   Input ~ 0
@@ -615,7 +713,7 @@ Wire Wire Line
 	4425 2975 4525 2975
 Connection ~ 4525 2975
 $Comp
-L Voyager104-rescue:AT90USB1286-MU-MCU_Microchip_AVR U1
+L MCU_Microchip_AVR:AT90USB1286-MU U1
 U 1 1 5B32E6E2
 P 4525 4975
 F 0 "U1" H 4450 7125 50  0000 L BNN
@@ -640,60 +738,4 @@ Text GLabel 3925 5175 0    50   Input ~ 0
 COL19
 Text GLabel 3925 5075 0    50   Input ~ 0
 COL20
-Text GLabel 5125 5975 2    60   Input ~ 0
-SCL
-Text GLabel 5125 6075 2    60   Input ~ 0
-SDA
-$Comp
-L Connector_Generic:Conn_01x04 OLED-I2C-128X64
-U 1 1 5E68335A
-P 5300 1350
-F 0 "OLED-I2C-128X64" H 5218 925 50  0000 C CNN
-F 1 "OLED" H 5218 1016 50  0000 C CNN
-F 2 "" H 5300 1350 50  0001 C CNN
-F 3 "~" H 5300 1350 50  0001 C CNN
-	1    5300 1350
-	-1   0    0    1   
-$EndComp
-Text GLabel 5500 1250 2    60   Input ~ 0
-SCL
-$Comp
-L power:GND #PWR0106
-U 1 1 5C4DF5AA
-P 2575 3275
-F 0 "#PWR0106" H 2575 3025 50  0001 C CNN
-F 1 "GND" H 2580 3102 50  0000 C CNN
-F 2 "" H 2575 3275 50  0001 C CNN
-F 3 "" H 2575 3275 50  0001 C CNN
-	1    2575 3275
-	1    0    0    -1  
-$EndComp
-Text GLabel 5500 1150 2    60   Input ~ 0
-SDA
-$Comp
-L power:GND #PWR?
-U 1 1 5E68CE53
-P 5800 1350
-F 0 "#PWR?" H 5800 1100 50  0001 C CNN
-F 1 "GND" H 5805 1177 50  0000 C CNN
-F 2 "" H 5800 1350 50  0001 C CNN
-F 3 "" H 5800 1350 50  0001 C CNN
-	1    5800 1350
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:VCC #PWR?
-U 1 1 5E68F7F8
-P 5650 1450
-F 0 "#PWR?" H 5650 1300 50  0001 C CNN
-F 1 "VCC" H 5650 1600 50  0000 C CNN
-F 2 "" H 5650 1450 50  0001 C CNN
-F 3 "" H 5650 1450 50  0001 C CNN
-	1    5650 1450
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	5500 1350 5800 1350
-Wire Wire Line
-	5500 1450 5650 1450
 $EndSCHEMATC
