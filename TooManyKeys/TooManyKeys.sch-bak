@@ -29,12 +29,12 @@ Wire Wire Line
 $Comp
 L power:GND #PWR?
 U 1 1 5E83DC8A
-P 2500 4900
-F 0 "#PWR?" H 2500 4650 50  0001 C CNN
-F 1 "GND" H 2505 4727 50  0000 C CNN
-F 2 "" H 2500 4900 50  0001 C CNN
-F 3 "" H 2500 4900 50  0001 C CNN
-	1    2500 4900
+P 2650 4900
+F 0 "#PWR?" H 2650 4650 50  0001 C CNN
+F 1 "GND" H 2655 4727 50  0000 C CNN
+F 2 "" H 2650 4900 50  0001 C CNN
+F 3 "" H 2650 4900 50  0001 C CNN
+	1    2650 4900
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -174,6 +174,8 @@ F 3 "" H 4800 2550 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	2900 4900 3000 4900
+Wire Wire Line
+	2650 4900 2900 4900
 Connection ~ 2900 4900
 Connection ~ 2900 900 
 Wire Wire Line
@@ -448,6 +450,4 @@ Wire Wire Line
 Connection ~ 5350 1250
 Wire Wire Line
 	5350 1250 5000 1250
-Wire Wire Line
-	2500 4900 2900 4900
 $EndSCHEMATC
