@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 1
+Sheet 1 2
 Title ""
 Date ""
 Rev ""
@@ -53,7 +53,7 @@ L Device:R_Small R?
 U 1 1 5E841203
 P 1550 3200
 F 0 "R?" V 1354 3200 50  0000 C CNN
-F 1 "1k" V 1445 3200 50  0000 C CNN
+F 1 "10k" V 1445 3200 50  0000 C CNN
 F 2 "" H 1550 3200 50  0001 C CNN
 F 3 "~" H 1550 3200 50  0001 C CNN
 	1    1550 3200
@@ -450,4 +450,10 @@ Wire Wire Line
 	5350 1250 5000 1250
 Wire Wire Line
 	2500 4900 2900 4900
+$Sheet
+S 1850 6650 1100 550 
+U 5E8A6E89
+F0 "Matrix" 50
+F1 "Matrix.sch" 50
+$EndSheet
 $EndSCHEMATC

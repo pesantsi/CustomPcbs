@@ -1,0 +1,2 @@
+HWB pin: 1k or 10k? -> HWB resistor: 1k or 10k is fine, it's a pull down. I usually use 10k for this but 1k will work. dont go any smaller than that
+USB Molex : Shield pin? -> shield pin: 0R resistor between it and GND to provide a star ground so ESD discharge will pass back thru the shield/cable
