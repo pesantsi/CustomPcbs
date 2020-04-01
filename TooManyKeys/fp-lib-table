@@ -3,4 +3,5 @@
   (lib (name random-keyboard-parts)(type KiCad)(uri D:/Git/CustomPcbs/random-keyboard-parts.pretty)(options "")(descr ""))
   (lib (name WS2812B)(type KiCad)(uri D:/Git/CustomPcbs/WS2812B.pretty)(options "")(descr ""))
   (lib (name Type-C)(type KiCad)(uri D:/Git/CustomPcbs/Type-C.pretty)(options "")(descr ""))
+  (lib (name "KiCad Lib")(type KiCad)(uri "D:/Git/CustomPcbs/KiCad Lib")(options "")(descr ""))
 )

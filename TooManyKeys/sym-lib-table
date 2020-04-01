@@ -3,4 +3,5 @@
   (lib (name MX_Alps_Hybrid)(type Legacy)(uri "D:/Git/CustomPcbs/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
   (lib (name ws2812b)(type Legacy)(uri D:/Git/CustomPcbs/WS2812B.pretty/Schematic-Symbol/ws2812b.lib)(options "")(descr ""))
   (lib (name Type-C)(type Legacy)(uri D:/Git/CustomPcbs/Type-C.pretty/Type-C.lib)(options "")(descr ""))
+  (lib (name SamacSys_Parts)(type Legacy)(uri "D:/Git/CustomPcbs/KiCad Lib/SamacSys_Parts.lib")(options "")(descr ""))
 )

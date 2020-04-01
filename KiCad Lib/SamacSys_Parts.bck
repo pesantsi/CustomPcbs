@@ -1,0 +1,28 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 505110-3091
+D MOLEX - 505110-3091 - CONNECTOR, FFC/FPC, 30POS, 1ROW, 0.5MM
+F https://componentsearchengine.com/Datasheets/1/505110-3091.pdf
+$ENDCMP
+#
+$CMP 505110-3091_Oled
+D MOLEX - 505110-3091 - CONNECTOR, FFC/FPC, 30POS, 1ROW, 0.5MM
+F https://componentsearchengine.com/Datasheets/1/505110-3091.pdf
+$ENDCMP
+#
+$CMP 54104-3031
+D Molex FFC/FPC SMT Series 0.5mm Pitch 30 Way 1 Row Right Angle SMT Female FPC Connector
+F https://componentsearchengine.com/Datasheets/1/54104-3031.pdf
+$ENDCMP
+#
+$CMP 54104-3031_oled
+D Molex FFC/FPC SMT Series 0.5mm Pitch 30 Way 1 Row Right Angle SMT Female FPC Connector
+F https://componentsearchengine.com/Datasheets/1/54104-3031.pdf
+$ENDCMP
+#
+$CMP NE555DR
+D Single Precision Timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+#End Doc Library
