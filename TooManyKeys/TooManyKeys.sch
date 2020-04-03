@@ -893,7 +893,7 @@ L Device:R_Small R?
 U 1 1 605C28A8
 P 7700 2500
 F 0 "R?" H 7641 2546 50  0000 R CNN
-F 1 "4.7k" H 7641 2455 50  0000 R CNN
+F 1 "2.2k" H 7641 2455 50  0000 R CNN
 F 2 "" H 7700 2500 50  0001 C CNN
 F 3 "~" H 7700 2500 50  0001 C CNN
 	1    7700 2500
@@ -904,7 +904,7 @@ L Device:R_Small R?
 U 1 1 605C30B5
 P 7300 2600
 F 0 "R?" H 7359 2554 50  0000 L CNN
-F 1 "4.7k" H 7359 2645 50  0000 L CNN
+F 1 "2.2k" H 7359 2645 50  0000 L CNN
 F 2 "" H 7300 2600 50  0001 C CNN
 F 3 "~" H 7300 2600 50  0001 C CNN
 	1    7300 2600
@@ -939,8 +939,6 @@ Text GLabel 3600 3900 2    50   Input ~ 0
 SCL
 Text GLabel 3600 4000 2    50   Input ~ 0
 SDA
-Text GLabel 2400 4600 0    50   Input ~ 0
-LED
 Text GLabel 3600 2200 2    50   Input ~ 0
 ROW1
 Text GLabel 3600 2300 2    50   Input ~ 0
@@ -1104,18 +1102,14 @@ $EndComp
 $Comp
 L Device:C_Small C?
 U 1 1 6067D857
-P 4400 5600
-F 0 "C?" V 4171 5600 50  0000 C CNN
-F 1 "10uF" V 4262 5600 50  0000 C CNN
-F 2 "" H 4400 5600 50  0001 C CNN
-F 3 "~" H 4400 5600 50  0001 C CNN
-	1    4400 5600
-	0    1    1    0   
+P 4500 5800
+F 0 "C?" H 4409 5846 50  0000 R CNN
+F 1 "10uF" H 4409 5755 50  0000 R CNN
+F 2 "" H 4500 5800 50  0001 C CNN
+F 3 "~" H 4500 5800 50  0001 C CNN
+	1    4500 5800
+	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	4200 5600 4300 5600
-Wire Wire Line
-	4500 5600 4600 5600
 Wire Wire Line
 	4900 5900 4900 6050
 $Comp
@@ -1173,9 +1167,9 @@ F 3 "" H 7150 5950 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	7150 5650 7150 5950
-Text GLabel 6750 5150 0    50   Input ~ 0
+Text GLabel 6200 5150 0    50   Input ~ 0
 SCL
-Text GLabel 6750 5250 0    50   Input ~ 0
+Text GLabel 6200 5250 0    50   Input ~ 0
 SDA
 Text GLabel 7550 5150 2    50   Input ~ 0
 SCL_3.3
@@ -1229,4 +1223,86 @@ Wire Wire Line
 Wire Wire Line
 	7650 5050 7650 4650
 Connection ~ 7650 4650
+$Comp
+L power:GND #PWR?
+U 1 1 5E863DA2
+P 4500 6000
+F 0 "#PWR?" H 4500 5750 50  0001 C CNN
+F 1 "GND" H 4505 5827 50  0000 C CNN
+F 2 "" H 4500 6000 50  0001 C CNN
+F 3 "" H 4500 6000 50  0001 C CNN
+	1    4500 6000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4200 5600 4500 5600
+Wire Wire Line
+	4500 5700 4500 5600
+Connection ~ 4500 5600
+Wire Wire Line
+	4500 5600 4600 5600
+Wire Wire Line
+	4500 6000 4500 5900
+$Comp
+L power:+5V #PWR?
+U 1 1 5E87C819
+P 6300 4700
+F 0 "#PWR?" H 6300 4550 50  0001 C CNN
+F 1 "+5V" H 6315 4873 50  0000 C CNN
+F 2 "" H 6300 4700 50  0001 C CNN
+F 3 "" H 6300 4700 50  0001 C CNN
+	1    6300 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 5E87D2D2
+P 6600 4700
+F 0 "#PWR?" H 6600 4550 50  0001 C CNN
+F 1 "+5V" H 6615 4873 50  0000 C CNN
+F 2 "" H 6600 4700 50  0001 C CNN
+F 3 "" H 6600 4700 50  0001 C CNN
+	1    6600 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 5E87DDE7
+P 6600 4900
+F 0 "R?" H 6659 4946 50  0000 L CNN
+F 1 "4.7k" H 6659 4855 50  0000 L CNN
+F 2 "" H 6600 4900 50  0001 C CNN
+F 3 "~" H 6600 4900 50  0001 C CNN
+	1    6600 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 5E87E77F
+P 6300 4900
+F 0 "R?" H 6359 4946 50  0000 L CNN
+F 1 "4.7k" H 6359 4855 50  0000 L CNN
+F 2 "" H 6300 4900 50  0001 C CNN
+F 3 "~" H 6300 4900 50  0001 C CNN
+	1    6300 4900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6200 5150 6300 5150
+Wire Wire Line
+	6300 5000 6300 5150
+Connection ~ 6300 5150
+Wire Wire Line
+	6300 5150 6750 5150
+Wire Wire Line
+	6300 4800 6300 4700
+Wire Wire Line
+	6200 5250 6600 5250
+Wire Wire Line
+	6600 5000 6600 5250
+Connection ~ 6600 5250
+Wire Wire Line
+	6600 5250 6750 5250
+Wire Wire Line
+	6600 4800 6600 4700
 $EndSCHEMATC
