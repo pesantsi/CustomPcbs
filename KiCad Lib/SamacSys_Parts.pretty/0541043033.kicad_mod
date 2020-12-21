@@ -56,6 +56,6 @@
   (model "D:\\Git\\CustomPcbs\\KiCad Lib\\SamacSys_Parts.3dshapes\\54104-3031.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 0))
   )
 )

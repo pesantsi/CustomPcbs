@@ -12,7 +12,7 @@ $ENDCMP
 #
 $CMP 54104-3031
 D Molex FFC/FPC SMT Series 0.5mm Pitch 30 Way 1 Row Right Angle SMT Female FPC Connector
-F https://componentsearchengine.com/Datasheets/1/54104-3031.pdf
+F http://www.molex.com/webdocs/datasheets/pdf/en-us//0541043031_FFC_FPC_CONNECTORS.pdf
 $ENDCMP
 #
 $CMP 54104-3031_oled
@@ -20,14 +20,33 @@ D Molex FFC/FPC SMT Series 0.5mm Pitch 30 Way 1 Row Right Angle SMT Female FPC C
 F https://componentsearchengine.com/Datasheets/1/54104-3031.pdf
 $ENDCMP
 #
+$CMP AT90USB1286-AU
+D AT90USB1286-AU, 8 bit AVR Microcontroller 20MHz 128 kB, 4 kB Flash, 8 kB RAM, USB I2C 64-Pin TQFP
+F http://www.atmel.com/images/7593s.pdf
+$ENDCMP
+#
+$CMP IS31FL3733-TQLS4
+D IC LED DRVR LINEAR ETQFP-48 DOT
+F http://www.issi.com/WW/pdf/IS31FL3733.pdf
+$ENDCMP
+#
 $CMP NE555DR
 D Single Precision Timer
 F http://www.ti.com/lit/ds/symlink/ne555.pdf
 $ENDCMP
 #
+$CMP PCA9306DCUTG4
+D 2-bit bidirectional I2C bus and SMBus voltage-level shifter
+F http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=pca9306&fileType=pdf
+$ENDCMP
+#
+$CMP TL9320AF400QG
+D Tactile Switches SEALED TACT, 16VDC 50mA, 250VAC, SPST, 400gf, IP67, 8.4 x 8.4mm x 3.95mm
+F https://componentsearchengine.com/Datasheets/2/TL9320AF400QG.pdf
+$ENDCMP
+#
 $CMP XZMDKCBDDG45S-9
 D LED RGB CLEAR 4SMD GW
-K
 F http://www.sunledusa.com/products/spec/XZMDKCBDDG45S-9.pdf
 $ENDCMP
 #
