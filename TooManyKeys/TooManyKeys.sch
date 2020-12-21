@@ -2129,4 +2129,108 @@ Wire Wire Line
 	8450 7350 9100 7350
 Wire Wire Line
 	12550 5800 13200 5800
+Text GLabel 11150 8550 2    50   Input ~ 0
+SW1
+Text GLabel 11150 8650 2    50   Input ~ 0
+SW2
+Text GLabel 11150 8750 2    50   Input ~ 0
+SW3
+Text GLabel 11150 8850 2    50   Input ~ 0
+SW4
+Text GLabel 11150 8950 2    50   Input ~ 0
+SW5
+Text GLabel 11150 9050 2    50   Input ~ 0
+SW6
+Text GLabel 11150 9150 2    50   Input ~ 0
+SW7
+Text GLabel 11150 9250 2    50   Input ~ 0
+SW8
+Text GLabel 11150 9350 2    50   Input ~ 0
+SW9
+Text GLabel 11150 9450 2    50   Input ~ 0
+SW10
+Text GLabel 11150 9550 2    50   Input ~ 0
+SW11
+Text GLabel 11150 9650 2    50   Input ~ 0
+SW12
+Text GLabel 15250 7000 2    50   Input ~ 0
+SW13
+Text GLabel 15250 7100 2    50   Input ~ 0
+SW14
+Text GLabel 15250 7200 2    50   Input ~ 0
+SW15
+Text GLabel 15250 7300 2    50   Input ~ 0
+SW16
+Text GLabel 15250 7400 2    50   Input ~ 0
+SW17
+Text GLabel 15250 7500 2    50   Input ~ 0
+SW18
+Text GLabel 15250 7600 2    50   Input ~ 0
+SW19
+Text GLabel 15250 7700 2    50   Input ~ 0
+SW20
+Text GLabel 15250 7800 2    50   Input ~ 0
+SW21
+Text GLabel 15250 7900 2    50   Input ~ 0
+SW22
+Text GLabel 15250 8000 2    50   Input ~ 0
+SW23
+Text GLabel 15250 8100 2    50   Input ~ 0
+SW24
+Text GLabel 11150 6850 2    50   Input ~ 0
+CS1
+Text GLabel 11150 6950 2    50   Input ~ 0
+CS2
+Text GLabel 11150 7050 2    50   Input ~ 0
+CS3
+Text GLabel 11150 7150 2    50   Input ~ 0
+CS4
+Text GLabel 11150 7250 2    50   Input ~ 0
+CS5
+Text GLabel 11150 7350 2    50   Input ~ 0
+CS6
+Text GLabel 11150 7450 2    50   Input ~ 0
+CS7
+Text GLabel 11150 7550 2    50   Input ~ 0
+CS8
+Text GLabel 11150 7650 2    50   Input ~ 0
+CS9
+Text GLabel 11150 7750 2    50   Input ~ 0
+CS10
+Text GLabel 11150 7850 2    50   Input ~ 0
+CS11
+Text GLabel 11150 7950 2    50   Input ~ 0
+CS12
+Text GLabel 11150 8050 2    50   Input ~ 0
+CS13
+Text GLabel 11150 8150 2    50   Input ~ 0
+CS14
+Text GLabel 11150 8250 2    50   Input ~ 0
+CS15
+Text GLabel 11150 8350 2    50   Input ~ 0
+CS16
+Text GLabel 15250 5300 2    50   Input ~ 0
+CS17
+Text GLabel 15250 5400 2    50   Input ~ 0
+CS18
+Text GLabel 15250 5500 2    50   Input ~ 0
+CS19
+Text GLabel 15250 5600 2    50   Input ~ 0
+CS20
+Text GLabel 15250 5700 2    50   Input ~ 0
+CS21
+Text GLabel 15250 5800 2    50   Input ~ 0
+CS22
+Text GLabel 15250 5900 2    50   Input ~ 0
+CS23
+Text GLabel 15250 6000 2    50   Input ~ 0
+CS24
+Text GLabel 15250 6100 2    50   Input ~ 0
+CS25
+Text GLabel 15250 6200 2    50   Input ~ 0
+CS26
+Text GLabel 15250 6300 2    50   Input ~ 0
+CS27
+Text GLabel 15250 6400 2    50   Input ~ 0
+CS28
 $EndSCHEMATC
