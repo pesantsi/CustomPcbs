@@ -1,2 +1,15 @@
 HWB pin: 1k or 10k? -> HWB resistor: 1k or 10k is fine, it's a pull down. I usually use 10k for this but 1k will work. dont go any smaller than that
 USB Molex : Shield pin? -> shield pin: 0R resistor between it and GND to provide a star ground so ESD discharge will pass back thru the shield/cable
+
+
+
+micro-controller : AT90USB1286-AU
+Usb connector : HRO-TYPE-C-31-M-12
+30 pins connector : 54104-3031
+oled : https://www.aliexpress.com/item/32950730252.html
+	   https://www.aliexpress.com/item/4000350633981.html
+led driver (2) : IS31FL3733-TQ
+led (104 ): XZMDKCBDDG45S
+
+
+led matrix : https://beta.docs.qmk.fm/using-qmk/hardware-features/lighting/feature_rgb_matrix
