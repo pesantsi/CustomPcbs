@@ -1,4 +1,4 @@
-19115001412701928
+19119827163107460
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -57218,6 +57218,13 @@ MXOnly-2U-NoLED
 2
 2
 MX_Only
+MXOnly-2U-NoLED_Vertical
+
+
+0
+2
+2
+MX_Only
 MXOnly-2U-ReversedStabilizers
 
 
@@ -76573,12 +76580,26 @@ Integrated Circuit
 49
 49
 SamacSys_Parts
+QFP80P1600X1600X120-64N
+TQFP MD64
+Integrated Circuit
+0
+64
+64
+SamacSys_Parts
 SOP50P310X90-8N
 DCU (R-PDSO-G8)
 Integrated Circuit
 0
 8
 8
+SamacSys_Parts
+TL9320AF400QG
+TL9320AF400QG-1
+Switch (2-Pin Push)
+0
+2
+2
 SamacSys_Parts
 XZMDKCBDDG45S9
 XZMDKCBDDG45S-9-1
