@@ -50,4 +50,10 @@ D LED RGB CLEAR 4SMD GW
 F http://www.sunledusa.com/products/spec/XZMDKCBDDG45S-9.pdf
 $ENDCMP
 #
+$CMP IS31FL3733-QFLS4-TR
+D LED Display Drivers 12x16 Dot Matrix LED Driver, QFN-48 (6.0mm x 6.0mm), T&R
+K
+F https://componentsearchengine.com/Datasheets/1/IS31FL3733-QFLS4-TR.pdf
+$ENDCMP
+#
 #End Doc Library
