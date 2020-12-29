@@ -56,4 +56,10 @@ K
 F https://componentsearchengine.com/Datasheets/1/IS31FL3733-QFLS4-TR.pdf
 $ENDCMP
 #
+$CMP SWR204-NRTN-D03-ST-GA
+D CONN HEADER VERT 6POS 2MM
+K
+F https://s3.amazonaws.com/catalogspreads-pdf/PAGE136-137%202mm%20SWR204%20DUAL%20ROW%20WAFER%20ST%20RA.pdf
+$ENDCMP
+#
 #End Doc Library

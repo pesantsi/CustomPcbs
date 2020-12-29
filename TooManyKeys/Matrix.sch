@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_ESC1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_ESC1
 U 1 1 5E8A7426
 P 1700 1900
 F 0 "MX_ESC1" H 1733 2123 60  0000 C CNN
@@ -38,7 +38,7 @@ F 3 "~" V 1500 2150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_PLAY1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_PLAY1
 U 1 1 5E8AA561
 P 2800 1250
 F 0 "MX_PLAY1" H 2833 1473 60  0000 C CNN
@@ -62,7 +62,7 @@ F 3 "~" V 2600 1500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_STOP1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_STOP1
 U 1 1 5E8AB1AC
 P 3350 1250
 F 0 "MX_STOP1" H 3383 1473 60  0000 C CNN
@@ -86,7 +86,7 @@ F 3 "~" V 3150 1500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_PREV1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_PREV1
 U 1 1 5E8AD0B9
 P 3900 1250
 F 0 "MX_PREV1" H 3933 1473 60  0000 C CNN
@@ -110,7 +110,7 @@ F 3 "~" V 3700 1500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_NEXT1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_NEXT1
 U 1 1 5E8AD0C6
 P 4450 1250
 F 0 "MX_NEXT1" H 4483 1473 60  0000 C CNN
@@ -134,7 +134,7 @@ F 3 "~" V 4250 1500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_F1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_F1
 U 1 1 5E8B4BC1
 P 2800 1900
 F 0 "MX_F1" H 2833 2123 60  0000 C CNN
@@ -158,7 +158,7 @@ F 3 "~" V 2600 2150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_F2
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_F2
 U 1 1 5E8B9DB3
 P 3350 1900
 F 0 "MX_F2" H 3383 2123 60  0000 C CNN
@@ -182,7 +182,7 @@ F 3 "~" V 3150 2150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_F3
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_F3
 U 1 1 5E8B9DC0
 P 3900 1900
 F 0 "MX_F3" H 3933 2123 60  0000 C CNN
@@ -206,7 +206,7 @@ F 3 "~" V 3700 2150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_1
 U 1 1 5E8CEF12
 P 2250 3200
 F 0 "MX_1" H 2283 3423 60  0000 C CNN
@@ -230,7 +230,7 @@ F 3 "~" V 2050 3450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_2
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_2
 U 1 1 5E8CEF1F
 P 2800 3200
 F 0 "MX_2" H 2833 3423 60  0000 C CNN
@@ -254,7 +254,7 @@ F 3 "~" V 2600 3450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_3
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_3
 U 1 1 5E8CEF2C
 P 3350 3200
 F 0 "MX_3" H 3383 3423 60  0000 C CNN
@@ -291,7 +291,7 @@ F 3 "~" V 3700 3450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_GRV1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_GRV1
 U 1 1 5E8D05C4
 P 1700 3200
 F 0 "MX_GRV1" H 1733 3423 60  0000 C CNN
@@ -315,7 +315,7 @@ F 3 "~" V 1500 3450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_F5
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_F5
 U 1 1 5E8E616D
 P 5550 1900
 F 0 "MX_F5" H 5583 2123 60  0000 C CNN
@@ -339,7 +339,7 @@ F 3 "~" V 5350 2150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_F6
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_F6
 U 1 1 5E8E617A
 P 6100 1900
 F 0 "MX_F6" H 6133 2123 60  0000 C CNN
@@ -363,7 +363,7 @@ F 3 "~" V 5900 2150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_F7
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_F7
 U 1 1 5E8E6187
 P 6650 1900
 F 0 "MX_F7" H 6683 2123 60  0000 C CNN
@@ -387,7 +387,7 @@ F 3 "~" V 6450 2150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_F8
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_F8
 U 1 1 5E8E950D
 P 7200 1900
 F 0 "MX_F8" H 7233 2123 60  0000 C CNN
@@ -411,7 +411,7 @@ F 3 "~" V 7000 2150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_F9
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_F9
 U 1 1 5E8E9527
 P 7750 1900
 F 0 "MX_F9" H 7783 2123 60  0000 C CNN
@@ -435,7 +435,7 @@ F 3 "~" V 7550 2150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_F10
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_F10
 U 1 1 5E8E9534
 P 8300 1900
 F 0 "MX_F10" H 8333 2123 60  0000 C CNN
@@ -459,7 +459,7 @@ F 3 "~" V 8100 2150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_F11
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_F11
 U 1 1 5E8EC1FA
 P 8850 1900
 F 0 "MX_F11" H 8883 2123 60  0000 C CNN
@@ -483,7 +483,7 @@ F 3 "~" V 8650 2150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_F12
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_F12
 U 1 1 5E8EC207
 P 9400 1900
 F 0 "MX_F12" H 9433 2123 60  0000 C CNN
@@ -507,7 +507,7 @@ F 3 "~" V 9200 2150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_PSCR1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_PSCR1
 U 1 1 5E8EC221
 P 9950 1900
 F 0 "MX_PSCR1" H 9983 2123 60  0000 C CNN
@@ -531,7 +531,7 @@ F 3 "~" V 9750 2150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_SLCK1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_SLCK1
 U 1 1 5E8F2DE1
 P 10500 1900
 F 0 "MX_SLCK1" H 10533 2123 60  0000 C CNN
@@ -555,7 +555,7 @@ F 3 "~" V 10300 2150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_PAUSE1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_PAUSE1
 U 1 1 5E8F2DEE
 P 11050 1900
 F 0 "MX_PAUSE1" H 11083 2123 60  0000 C CNN
@@ -579,7 +579,7 @@ F 3 "~" V 10850 2150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_MUTE1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_MUTE1
 U 1 1 5E8F84DF
 P 9950 1250
 F 0 "MX_MUTE1" H 9983 1473 60  0000 C CNN
@@ -603,7 +603,7 @@ F 3 "~" V 9750 1500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_VOLD1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_VOLD1
 U 1 1 5E8F84EC
 P 10500 1250
 F 0 "MX_VOLD1" H 10533 1473 60  0000 C CNN
@@ -627,7 +627,7 @@ F 3 "~" V 10300 1500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_VOLU1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_VOLU1
 U 1 1 5E8F84F9
 P 11050 1250
 F 0 "MX_VOLU1" H 11083 1473 60  0000 C CNN
@@ -651,7 +651,7 @@ F 3 "~" V 10850 1500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_6
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_6
 U 1 1 5E9020F0
 P 5000 3200
 F 0 "MX_6" H 5033 3423 60  0000 C CNN
@@ -675,7 +675,7 @@ F 3 "~" V 4800 3450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_7
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_7
 U 1 1 5E9020FD
 P 5550 3200
 F 0 "MX_7" H 5583 3423 60  0000 C CNN
@@ -699,7 +699,7 @@ F 3 "~" V 5350 3450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_8
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_8
 U 1 1 5E90210A
 P 6100 3200
 F 0 "MX_8" H 6133 3423 60  0000 C CNN
@@ -723,7 +723,7 @@ F 3 "~" V 5900 3450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_9
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_9
 U 1 1 5E902117
 P 6650 3200
 F 0 "MX_9" H 6683 3423 60  0000 C CNN
@@ -747,7 +747,7 @@ F 3 "~" V 6450 3450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_5
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_5
 U 1 1 5E902124
 P 4450 3200
 F 0 "MX_5" H 4483 3423 60  0000 C CNN
@@ -771,7 +771,7 @@ F 3 "~" V 4250 3450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_MINS1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_MINS1
 U 1 1 5E917373
 P 7750 3200
 F 0 "MX_MINS1" H 7783 3423 60  0000 C CNN
@@ -795,7 +795,7 @@ F 3 "~" V 7550 3450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_EQL1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_EQL1
 U 1 1 5E917380
 P 8300 3200
 F 0 "MX_EQL1" H 8333 3423 60  0000 C CNN
@@ -819,7 +819,7 @@ F 3 "~" V 8100 3450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_BSPC1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_BSPC1
 U 1 1 5E91738D
 P 9400 3200
 F 0 "MX_BSPC1" H 9433 3423 60  0000 C CNN
@@ -843,7 +843,7 @@ F 3 "~" V 9200 3450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_INS1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_INS1
 U 1 1 5E91739A
 P 9950 3200
 F 0 "MX_INS1" H 9983 3423 60  0000 C CNN
@@ -867,7 +867,7 @@ F 3 "~" V 9750 3450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_0
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_0
 U 1 1 5E9173A7
 P 7200 3200
 F 0 "MX_0" H 7233 3423 60  0000 C CNN
@@ -891,7 +891,7 @@ F 3 "~" V 7000 3450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_PGUP1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_PGUP1
 U 1 1 5E9173B4
 P 11050 3200
 F 0 "MX_PGUP1" H 11083 3423 60  0000 C CNN
@@ -915,7 +915,7 @@ F 3 "~" V 10850 3450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_NLCK1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_NLCK1
 U 1 1 5E9173C1
 P 12150 3200
 F 0 "MX_NLCK1" H 12183 3423 60  0000 C CNN
@@ -939,7 +939,7 @@ F 3 "~" V 11950 3450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_P/1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_P/1
 U 1 1 5E9173CE
 P 12700 3200
 F 0 "MX_P/1" H 12733 3423 60  0000 C CNN
@@ -963,7 +963,7 @@ F 3 "~" V 12500 3450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_P*1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_P*1
 U 1 1 5E9173DB
 P 13250 3200
 F 0 "MX_P*1" H 13283 3423 60  0000 C CNN
@@ -987,7 +987,7 @@ F 3 "~" V 13050 3450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_HOME1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_HOME1
 U 1 1 5E9173E8
 P 10500 3200
 F 0 "MX_HOME1" H 10533 3423 60  0000 C CNN
@@ -1011,7 +1011,7 @@ F 3 "~" V 10300 3450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_P-1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_P-1
 U 1 1 5E9199C7
 P 13800 3200
 F 0 "MX_P-1" H 13833 3423 60  0000 C CNN
@@ -1035,7 +1035,7 @@ F 3 "~" V 13600 3450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_Q1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_Q1
 U 1 1 5E971F07
 P 2800 3850
 F 0 "MX_Q1" H 2833 4073 60  0000 C CNN
@@ -1059,7 +1059,7 @@ F 3 "~" V 2600 4100 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_W1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_W1
 U 1 1 5E971F14
 P 3350 3850
 F 0 "MX_W1" H 3383 4073 60  0000 C CNN
@@ -1083,7 +1083,7 @@ F 3 "~" V 3150 4100 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_E1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_E1
 U 1 1 5E971F21
 P 3900 3850
 F 0 "MX_E1" H 3933 4073 60  0000 C CNN
@@ -1107,7 +1107,7 @@ F 3 "~" V 3700 4100 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_R1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_R1
 U 1 1 5E971F2E
 P 4450 3850
 F 0 "MX_R1" H 4483 4073 60  0000 C CNN
@@ -1144,7 +1144,7 @@ F 3 "~" V 1500 4100 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_Y1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_Y1
 U 1 1 5E971F48
 P 5550 3850
 F 0 "MX_Y1" H 5583 4073 60  0000 C CNN
@@ -1168,7 +1168,7 @@ F 3 "~" V 5350 4100 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_U1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_U1
 U 1 1 5E971F55
 P 6100 3850
 F 0 "MX_U1" H 6133 4073 60  0000 C CNN
@@ -1192,7 +1192,7 @@ F 3 "~" V 5900 4100 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_I1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_I1
 U 1 1 5E971F62
 P 6650 3850
 F 0 "MX_I1" H 6683 4073 60  0000 C CNN
@@ -1216,7 +1216,7 @@ F 3 "~" V 6450 4100 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_O1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_O1
 U 1 1 5E971F6F
 P 7200 3850
 F 0 "MX_O1" H 7233 4073 60  0000 C CNN
@@ -1240,7 +1240,7 @@ F 3 "~" V 7000 4100 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_T1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_T1
 U 1 1 5E971F7C
 P 5000 3850
 F 0 "MX_T1" H 5033 4073 60  0000 C CNN
@@ -1264,7 +1264,7 @@ F 3 "~" V 4800 4100 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_LBRC1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_LBRC1
 U 1 1 5E971F89
 P 8300 3850
 F 0 "MX_LBRC1" H 8333 4073 60  0000 C CNN
@@ -1288,7 +1288,7 @@ F 3 "~" V 8100 4100 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_RBRC1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_RBRC1
 U 1 1 5E971F96
 P 8850 3850
 F 0 "MX_RBRC1" H 8883 4073 60  0000 C CNN
@@ -1312,7 +1312,7 @@ F 3 "~" V 8650 4100 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_BSLS1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_BSLS1
 U 1 1 5E971FA3
 P 9400 3850
 F 0 "MX_BSLS1" H 9433 4073 60  0000 C CNN
@@ -1336,7 +1336,7 @@ F 3 "~" V 9200 4100 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_DEL1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_DEL1
 U 1 1 5E971FB0
 P 9950 3850
 F 0 "MX_DEL1" H 9983 4073 60  0000 C CNN
@@ -1360,7 +1360,7 @@ F 3 "~" V 9750 4100 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_P10
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_P10
 U 1 1 5E971FBD
 P 7750 3850
 F 0 "MX_P10" H 7783 4073 60  0000 C CNN
@@ -1384,7 +1384,7 @@ F 3 "~" V 7550 4100 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_PGDN1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_PGDN1
 U 1 1 5E971FCA
 P 11050 3850
 F 0 "MX_PGDN1" H 11083 4073 60  0000 C CNN
@@ -1408,7 +1408,7 @@ F 3 "~" V 10850 4100 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_P7
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_P7
 U 1 1 5E971FD7
 P 12150 3850
 F 0 "MX_P7" H 12183 4073 60  0000 C CNN
@@ -1432,7 +1432,7 @@ F 3 "~" V 11950 4100 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_P8
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_P8
 U 1 1 5E971FE4
 P 12700 3850
 F 0 "MX_P8" H 12733 4073 60  0000 C CNN
@@ -1456,7 +1456,7 @@ F 3 "~" V 12500 4100 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_P9
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_P9
 U 1 1 5E971FF1
 P 13250 3850
 F 0 "MX_P9" H 13283 4073 60  0000 C CNN
@@ -1480,7 +1480,7 @@ F 3 "~" V 13050 4100 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_END1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_END1
 U 1 1 5E971FFE
 P 10500 3850
 F 0 "MX_END1" H 10533 4073 60  0000 C CNN
@@ -1504,7 +1504,7 @@ F 3 "~" V 10300 4100 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_P+1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_P+1
 U 1 1 5E97200B
 P 13800 3850
 F 0 "MX_P+1" H 13833 4073 60  0000 C CNN
@@ -1528,7 +1528,7 @@ F 3 "~" V 13600 4100 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_P4
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_P4
 U 1 1 5EA02808
 P 12150 4500
 F 0 "MX_P4" H 12183 4723 60  0000 C CNN
@@ -1552,7 +1552,7 @@ F 3 "~" V 11950 4750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_P5
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_P5
 U 1 1 5EA02815
 P 12700 4500
 F 0 "MX_P5" H 12733 4723 60  0000 C CNN
@@ -1576,7 +1576,7 @@ F 3 "~" V 12500 4750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_P6
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_P6
 U 1 1 5EA02822
 P 13250 4500
 F 0 "MX_P6" H 13283 4723 60  0000 C CNN
@@ -1600,7 +1600,7 @@ F 3 "~" V 13050 4750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_S1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_S1
 U 1 1 5EA33B50
 P 3350 4500
 F 0 "MX_S1" H 3383 4723 60  0000 C CNN
@@ -1624,7 +1624,7 @@ F 3 "~" V 3150 4750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_D1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_D1
 U 1 1 5EA33B5D
 P 3900 4500
 F 0 "MX_D1" H 3933 4723 60  0000 C CNN
@@ -1648,7 +1648,7 @@ F 3 "~" V 3700 4750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_F13
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_F13
 U 1 1 5EA33B6A
 P 4450 4500
 F 0 "MX_F13" H 4483 4723 60  0000 C CNN
@@ -1672,7 +1672,7 @@ F 3 "~" V 4250 4750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_CAPS1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_CAPS1
 U 1 1 5EA33B77
 P 1700 4500
 F 0 "MX_CAPS1" H 1733 4723 60  0000 C CNN
@@ -1696,7 +1696,7 @@ F 3 "~" V 1500 4750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_H1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_H1
 U 1 1 5EA33B84
 P 5550 4500
 F 0 "MX_H1" H 5583 4723 60  0000 C CNN
@@ -1720,7 +1720,7 @@ F 3 "~" V 5350 4750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_J1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_J1
 U 1 1 5EA33B91
 P 6100 4500
 F 0 "MX_J1" H 6133 4723 60  0000 C CNN
@@ -1744,7 +1744,7 @@ F 3 "~" V 5900 4750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_K1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_K1
 U 1 1 5EA33B9E
 P 6650 4500
 F 0 "MX_K1" H 6683 4723 60  0000 C CNN
@@ -1768,7 +1768,7 @@ F 3 "~" V 6450 4750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_L1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_L1
 U 1 1 5EA33BAB
 P 7200 4500
 F 0 "MX_L1" H 7233 4723 60  0000 C CNN
@@ -1792,7 +1792,7 @@ F 3 "~" V 7000 4750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_G1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_G1
 U 1 1 5EA33BB8
 P 5000 4500
 F 0 "MX_G1" H 5033 4723 60  0000 C CNN
@@ -1816,7 +1816,7 @@ F 3 "~" V 4800 4750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_QUOT1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_QUOT1
 U 1 1 5EA33BC5
 P 8300 4500
 F 0 "MX_QUOT1" H 8333 4723 60  0000 C CNN
@@ -1840,7 +1840,7 @@ F 3 "~" V 8100 4750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_ENT1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_ENT1
 U 1 1 5EA33BD2
 P 8850 4500
 F 0 "MX_ENT1" H 8883 4723 60  0000 C CNN
@@ -1864,7 +1864,7 @@ F 3 "~" V 8650 4750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_SCLN1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_SCLN1
 U 1 1 5EA33BDF
 P 7750 4500
 F 0 "MX_SCLN1" H 7783 4723 60  0000 C CNN
@@ -1888,7 +1888,7 @@ F 3 "~" V 7550 4750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_P1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_P1
 U 1 1 5EA437E8
 P 12150 5150
 F 0 "MX_P1" H 12183 5373 60  0000 C CNN
@@ -1912,7 +1912,7 @@ F 3 "~" V 11950 5400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_P2
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_P2
 U 1 1 5EA437F5
 P 12700 5150
 F 0 "MX_P2" H 12733 5373 60  0000 C CNN
@@ -1936,7 +1936,7 @@ F 3 "~" V 12500 5400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_P3
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_P3
 U 1 1 5EA43802
 P 13250 5150
 F 0 "MX_P3" H 13283 5373 60  0000 C CNN
@@ -1960,7 +1960,7 @@ F 3 "~" V 13050 5400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_PENT1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_PENT1
 U 1 1 5EA4380F
 P 13800 5150
 F 0 "MX_PENT1" H 13833 5373 60  0000 C CNN
@@ -1984,7 +1984,7 @@ F 3 "~" V 13600 5400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_Z1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_Z1
 U 1 1 5EA755D7
 P 2800 5150
 F 0 "MX_Z1" H 2833 5373 60  0000 C CNN
@@ -2008,7 +2008,7 @@ F 3 "~" V 2600 5400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_X1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_X1
 U 1 1 5EA755E4
 P 3350 5150
 F 0 "MX_X1" H 3383 5373 60  0000 C CNN
@@ -2032,7 +2032,7 @@ F 3 "~" V 3150 5400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_C1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_C1
 U 1 1 5EA755F1
 P 3900 5150
 F 0 "MX_C1" H 3933 5373 60  0000 C CNN
@@ -2056,7 +2056,7 @@ F 3 "~" V 3700 5400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_V1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_V1
 U 1 1 5EA755FE
 P 4450 5150
 F 0 "MX_V1" H 4483 5373 60  0000 C CNN
@@ -2080,7 +2080,7 @@ F 3 "~" V 4250 5400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_LSFT1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_LSFT1
 U 1 1 5EA7560B
 P 2250 5150
 F 0 "MX_LSFT1" H 2283 5373 60  0000 C CNN
@@ -2104,7 +2104,7 @@ F 3 "~" V 2050 5400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_N1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_N1
 U 1 1 5EA75618
 P 5550 5150
 F 0 "MX_N1" H 5583 5373 60  0000 C CNN
@@ -2128,7 +2128,7 @@ F 3 "~" V 5350 5400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_M1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_M1
 U 1 1 5EA75625
 P 6100 5150
 F 0 "MX_M1" H 6133 5373 60  0000 C CNN
@@ -2152,7 +2152,7 @@ F 3 "~" V 5900 5400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_COMM1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_COMM1
 U 1 1 5EA75632
 P 6650 5150
 F 0 "MX_COMM1" H 6683 5373 60  0000 C CNN
@@ -2176,7 +2176,7 @@ F 3 "~" V 6450 5400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_DOT1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_DOT1
 U 1 1 5EA7563F
 P 7200 5150
 F 0 "MX_DOT1" H 7233 5373 60  0000 C CNN
@@ -2200,7 +2200,7 @@ F 3 "~" V 7000 5400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_B1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_B1
 U 1 1 5EA7564C
 P 5000 5150
 F 0 "MX_B1" H 5033 5373 60  0000 C CNN
@@ -2224,7 +2224,7 @@ F 3 "~" V 4800 5400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_RSFT1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_RSFT1
 U 1 1 5EA75659
 P 8850 5150
 F 0 "MX_RSFT1" H 8883 5373 60  0000 C CNN
@@ -2248,7 +2248,7 @@ F 3 "~" V 8650 5400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_UP1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_UP1
 U 1 1 5EA75666
 P 10500 5150
 F 0 "MX_UP1" H 10533 5373 60  0000 C CNN
@@ -2272,7 +2272,7 @@ F 3 "~" V 10300 5400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_SLSH1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_SLSH1
 U 1 1 5EA75673
 P 7750 5150
 F 0 "MX_SLSH1" H 7783 5373 60  0000 C CNN
@@ -2296,7 +2296,7 @@ F 3 "~" V 7550 5400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_LGUI1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_LGUI1
 U 1 1 5EAED913
 P 2250 5800
 F 0 "MX_LGUI1" H 2283 6023 60  0000 C CNN
@@ -2320,7 +2320,7 @@ F 3 "~" V 2050 6050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_LALT1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_LALT1
 U 1 1 5EAED920
 P 3350 5800
 F 0 "MX_LALT1" H 3383 6023 60  0000 C CNN
@@ -2344,7 +2344,7 @@ F 3 "~" V 3150 6050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_SPC1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_SPC1
 U 1 1 5EAED92D
 P 5000 5800
 F 0 "MX_SPC1" H 5033 6023 60  0000 C CNN
@@ -2368,7 +2368,7 @@ F 3 "~" V 4800 6050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_RALT1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_RALT1
 U 1 1 5EAED93A
 P 7200 5800
 F 0 "MX_RALT1" H 7233 6023 60  0000 C CNN
@@ -2392,7 +2392,7 @@ F 3 "~" V 7000 6050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_LCTL1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_LCTL1
 U 1 1 5EAED947
 P 1700 5800
 F 0 "MX_LCTL1" H 1733 6023 60  0000 C CNN
@@ -2416,7 +2416,7 @@ F 3 "~" V 1500 6050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_MENU1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_MENU1
 U 1 1 5EAED954
 P 8850 5800
 F 0 "MX_MENU1" H 8883 6023 60  0000 C CNN
@@ -2440,7 +2440,7 @@ F 3 "~" V 8650 6050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_RCTL1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_RCTL1
 U 1 1 5EAED961
 P 9400 5800
 F 0 "MX_RCTL1" H 9433 6023 60  0000 C CNN
@@ -2464,7 +2464,7 @@ F 3 "~" V 9200 6050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_LEFT1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_LEFT1
 U 1 1 5EAED96E
 P 9950 5800
 F 0 "MX_LEFT1" H 9983 6023 60  0000 C CNN
@@ -2488,7 +2488,7 @@ F 3 "~" V 9750 6050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_DOWN1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_DOWN1
 U 1 1 5EAED97B
 P 10500 5800
 F 0 "MX_DOWN1" H 10533 6023 60  0000 C CNN
@@ -2512,7 +2512,7 @@ F 3 "~" V 10300 6050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_RGUI1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_RGUI1
 U 1 1 5EAED988
 P 7750 5800
 F 0 "MX_RGUI1" H 7783 6023 60  0000 C CNN
@@ -2536,7 +2536,7 @@ F 3 "~" V 7550 6050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_P0
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_P0
 U 1 1 5EAED995
 P 12150 5800
 F 0 "MX_P0" H 12183 6023 60  0000 C CNN
@@ -2560,7 +2560,7 @@ F 3 "~" V 11950 6050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_PDOT1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_PDOT1
 U 1 1 5EAED9A2
 P 13250 5800
 F 0 "MX_PDOT1" H 13283 6023 60  0000 C CNN
@@ -2584,7 +2584,7 @@ F 3 "~" V 13050 6050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_RGHT1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_RGHT1
 U 1 1 5EAED9AF
 P 11050 5800
 F 0 "MX_RGHT1" H 11083 6023 60  0000 C CNN
@@ -3102,7 +3102,7 @@ $EndComp
 Wire Wire Line
 	4250 2050 4400 2050
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_F4
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_F4
 U 1 1 5E8B9DCD
 P 4450 1900
 F 0 "MX_F4" H 4483 2123 60  0000 C CNN
@@ -3232,7 +3232,7 @@ Connection ~ 2600 1600
 Wire Wire Line
 	2600 1600 3150 1600
 Wire Wire Line
-	850  1600 2600 1600
+	800  1600 2600 1600
 Connection ~ 2600 2250
 Wire Wire Line
 	2600 2250 3150 2250
@@ -3256,7 +3256,7 @@ $EndComp
 Wire Wire Line
 	2600 4650 2750 4650
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_A1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_A1
 U 1 1 5EA33B43
 P 2800 4500
 F 0 "MX_A1" H 2833 4723 60  0000 C CNN
@@ -3312,7 +3312,7 @@ Wire Wire Line
 	2400 3150 2400 1000
 Connection ~ 2400 3150
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_TAB1
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_TAB1
 U 1 1 5E971F3B
 P 1700 3850
 F 0 "MX_TAB1" H 1733 4073 60  0000 C CNN
@@ -3362,7 +3362,7 @@ Wire Wire Line
 	1850 1850 1850 1000
 Connection ~ 1850 1850
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX_4
+L TooManyKeys-rescue:MX-NoLED-MX_Alps_Hybrid MX_4
 U 1 1 5E8CEF39
 P 3900 3200
 F 0 "MX_4" H 3933 3423 60  0000 C CNN
