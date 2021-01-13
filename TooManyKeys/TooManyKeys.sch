@@ -323,12 +323,6 @@ Text GLabel 9050 1600 2    50   Input ~ 0
 D+
 Text GLabel 9050 1500 2    50   Input ~ 0
 D-
-$Sheet
-S 1850 6650 1100 550 
-U 5E8A6E89
-F0 "Matrix" 50
-F1 "Matrix.sch" 50
-$EndSheet
 $Comp
 L TooManyKeys-rescue:HRO-TYPE-C-31-M-12-Type-C USB1
 U 1 1 6047D871
@@ -842,10 +836,8 @@ Text GLabel 3700 3900 2    50   Input ~ 0
 SCL
 Text GLabel 3700 4000 2    50   Input ~ 0
 SDA
-Text GLabel 3700 1300 2    50   Input ~ 0
-ROW1
 Text GLabel 3700 1400 2    50   Input ~ 0
-ROW2
+ROW1
 Text GLabel 3700 1500 2    50   Input ~ 0
 ROW3
 Text GLabel 3700 1600 2    50   Input ~ 0
@@ -856,7 +848,7 @@ Text GLabel 3700 1800 2    50   Input ~ 0
 ROW6
 Text GLabel 3700 1900 2    50   Input ~ 0
 ROW7
-Text GLabel 3700 1200 2    50   Input ~ 0
+Text GLabel 3700 1300 2    50   Input ~ 0
 ROW0
 Text GLabel 3700 3000 2    50   Input ~ 0
 COL00
@@ -874,42 +866,34 @@ Text GLabel 3700 3600 2    50   Input ~ 0
 COL06
 Text GLabel 3700 3700 2    50   Input ~ 0
 COL07
-Text GLabel 3700 4100 2    50   Input ~ 0
+Text GLabel 2300 4200 0    50   Input ~ 0
 COL08
-Text GLabel 3700 4200 2    50   Input ~ 0
+Text GLabel 2300 4100 0    50   Input ~ 0
 COL09
-Text GLabel 3700 4300 2    50   Input ~ 0
+Text GLabel 2300 4000 0    50   Input ~ 0
 COL10
-Text GLabel 3700 4400 2    50   Input ~ 0
+Text GLabel 2300 3900 0    50   Input ~ 0
 COL11
-Text GLabel 3700 4500 2    50   Input ~ 0
+Text GLabel 2250 3000 0    50   Input ~ 0
 COL12
-Text GLabel 3700 4600 2    50   Input ~ 0
+Text GLabel 2250 3100 0    50   Input ~ 0
 COL13
-Text GLabel 2250 3300 0    50   Input ~ 0
+Text GLabel 2250 3700 0    50   Input ~ 0
 COL14
-Text GLabel 2250 3400 0    50   Input ~ 0
+Text GLabel 3700 4600 2    50   Input ~ 0
 COL15
-Text GLabel 2250 3500 0    50   Input ~ 0
+Text GLabel 3700 4500 2    50   Input ~ 0
 COL16
 Text GLabel 2250 3600 0    50   Input ~ 0
 COL17
-Text GLabel 2250 3700 0    50   Input ~ 0
-COL18
-Text GLabel 2250 3900 0    50   Input ~ 0
+Text GLabel 2250 4300 0    50   Input ~ 0
 COL19
-Text GLabel 2250 4000 0    50   Input ~ 0
+Text GLabel 2250 4400 0    50   Input ~ 0
 COL20
-Text GLabel 2250 4100 0    50   Input ~ 0
+Text GLabel 2250 4500 0    50   Input ~ 0
 COL21
-Text GLabel 2250 4200 0    50   Input ~ 0
+Text GLabel 2250 4600 0    50   Input ~ 0
 COL22
-$Sheet
-S 3050 6650 1000 550 
-U 6065500F
-F0 "Led" 50
-F1 "Led.sch" 50
-$EndSheet
 Wire Wire Line
 	10800 1750 12050 1750
 $Comp
@@ -2004,23 +1988,6 @@ Text GLabel 15550 6300 2    50   Input ~ 0
 CS27
 Text GLabel 15550 6400 2    50   Input ~ 0
 CS28
-$Comp
-L TooManyKeys-rescue:505110-3091_Oled-SamacSys_Parts J1
-U 1 1 604722A8
-P 13050 1050
-F 0 "J1" H 13550 1315 50  0000 C CNN
-F 1 "54104-3031_Oled" H 13550 1224 50  0000 C CNN
-F 2 "SamacSys_Parts:0541043033" H 13900 1150 50  0001 L CNN
-F 3 "https://componentsearchengine.com/Datasheets/1/505110-3091.pdf" H 13900 1050 50  0001 L CNN
-F 4 "MOLEX - 505110-3091 - CONNECTOR, FFC/FPC, 30POS, 1ROW, 0.5MM" H 13900 950 50  0001 L CNN "Description"
-F 5 "2.1" H 13900 850 50  0001 L CNN "Height"
-F 6 "538-505110-3091" H 13900 750 50  0001 L CNN "Mouser Part Number"
-F 7 "https://www.mouser.com/Search/Refine.aspx?Keyword=538-505110-3091" H 13900 650 50  0001 L CNN "Mouser Price/Stock"
-F 8 "Molex" H 13900 550 50  0001 L CNN "Manufacturer_Name"
-F 9 "505110-3091" H 13900 450 50  0001 L CNN "Manufacturer_Part_Number"
-	1    13050 1050
-	-1   0    0    -1  
-$EndComp
 Text GLabel 11300 6850 2    50   Input ~ 0
 CS1
 Connection ~ 2900 4900
@@ -2081,35 +2048,33 @@ Wire Wire Line
 Wire Wire Line
 	3600 4000 3700 4000
 Wire Wire Line
-	3700 4100 3600 4100
+	2300 4200 2400 4200
 Wire Wire Line
-	3700 4200 3600 4200
+	2300 4100 2400 4100
 Wire Wire Line
-	3700 4300 3600 4300
+	2300 4000 2400 4000
 Wire Wire Line
-	3700 4400 3600 4400
+	2300 3900 2400 3900
 Wire Wire Line
 	3600 4500 3700 4500
 Wire Wire Line
 	3700 4600 3600 4600
 Wire Wire Line
-	2250 3300 2400 3300
+	2250 3700 2400 3700
 Wire Wire Line
-	2250 3400 2400 3400
+	2250 3000 2400 3000
 Wire Wire Line
-	2250 3500 2400 3500
+	2250 3100 2400 3100
 Wire Wire Line
 	2250 3600 2400 3600
 Wire Wire Line
-	2250 3700 2400 3700
+	2250 4300 2400 4300
 Wire Wire Line
-	2250 3900 2400 3900
+	2250 4400 2400 4400
 Wire Wire Line
-	2250 4000 2400 4000
+	2250 4500 2400 4500
 Wire Wire Line
-	2250 4100 2400 4100
-Wire Wire Line
-	2250 4200 2400 4200
+	2250 4600 2400 4600
 Wire Wire Line
 	2400 2200 2150 2200
 Wire Wire Line
@@ -2388,8 +2353,6 @@ MOSI
 Text Label 3900 2200 2    50   ~ 0
 SCK
 Wire Wire Line
-	3700 1200 3600 1200
-Wire Wire Line
 	3700 1300 3600 1300
 Wire Wire Line
 	3700 1400 3600 1400
@@ -2482,4 +2445,33 @@ Connection ~ 1700 1200
 Wire Wire Line
 	1700 1200 2050 1200
 Connection ~ 2050 1200
+$Comp
+L TooManyKeys-rescue:505110-3091_Oled-SamacSys_Parts J1
+U 1 1 604722A8
+P 13050 1050
+F 0 "J1" H 13550 1315 50  0000 C CNN
+F 1 "54104-3031_Oled" H 13550 1224 50  0000 C CNN
+F 2 "SamacSys_Parts:0541043033" H 13900 1150 50  0001 L CNN
+F 3 "https://componentsearchengine.com/Datasheets/1/505110-3091.pdf" H 13900 1050 50  0001 L CNN
+F 4 "MOLEX - 505110-3091 - CONNECTOR, FFC/FPC, 30POS, 1ROW, 0.5MM" H 13900 950 50  0001 L CNN "Description"
+F 5 "2.1" H 13900 850 50  0001 L CNN "Height"
+F 6 "538-505110-3091" H 13900 750 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.com/Search/Refine.aspx?Keyword=538-505110-3091" H 13900 650 50  0001 L CNN "Mouser Price/Stock"
+F 8 "Molex" H 13900 550 50  0001 L CNN "Manufacturer_Name"
+F 9 "505110-3091" H 13900 450 50  0001 L CNN "Manufacturer_Part_Number"
+	1    13050 1050
+	-1   0    0    -1  
+$EndComp
+$Sheet
+S 3050 6650 1000 550 
+U 6065500F
+F0 "Led" 50
+F1 "Led.sch" 50
+$EndSheet
+$Sheet
+S 1850 6650 1100 550 
+U 5E8A6E89
+F0 "Matrix" 50
+F1 "Matrix.sch" 50
+$EndSheet
 $EndSCHEMATC

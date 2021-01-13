@@ -9,7 +9,13 @@ Usb connector : HRO-TYPE-C-31-M-12
 oled : https://www.aliexpress.com/item/32950730252.html
 	   https://www.aliexpress.com/item/4000350633981.html
 led driver (2) : IS31FL3733-TQ
-led (104 ): XZMDKCBDDG45S
+led (111 ): XZMDKCBDDG45S
 
 
 led matrix : https://beta.docs.qmk.fm/using-qmk/hardware-features/lighting/feature_rgb_matrix
+
+
+Led Matrix like and not row
+D- and D+ need to be of same length
+
+IS31FL3733-TQ D2 and E2 

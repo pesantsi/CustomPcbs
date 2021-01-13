@@ -2638,8 +2638,6 @@ Wire Wire Line
 Connection ~ 11950 3550
 Connection ~ 12500 3550
 Connection ~ 13050 3550
-Text GLabel 800  2900 0    50   Input ~ 0
-ROW2
 Connection ~ 9200 4200
 Wire Wire Line
 	9200 4200 9750 4200
@@ -2868,8 +2866,6 @@ Wire Wire Line
 	13950 1000 13950 3150
 Text GLabel 800  3550 0    50   Input ~ 0
 ROW3
-Text GLabel 11750 1000 1    50   Input ~ 0
-COL18
 Connection ~ 8100 2250
 Wire Wire Line
 	8100 2250 8650 2250
