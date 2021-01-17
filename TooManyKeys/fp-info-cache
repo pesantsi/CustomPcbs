@@ -1,4 +1,4 @@
-19004093174624142
+18994289719681507
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -300,6 +300,13 @@ battery CR-3032 coin cell vertical
 0
 2
 2
+Bitmap
+Logo
+
+
+0
+0
+0
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
@@ -56231,13 +56238,6 @@ MXOnly-1.5U-NoLED
 2
 2
 MX_Only
-MXOnly-1.5U-NoLED_3Pins
-
-
-0
-2
-2
-MX_Only
 MXOnly-1.5U-Vertical
 
 
@@ -56280,13 +56280,6 @@ MXOnly-1.25U-NoLED
 2
 2
 MX_Only
-MXOnly-1.25U-NoLED_3Pins
-
-
-0
-2
-2
-MX_Only
 MXOnly-1.75U
 
 
@@ -56309,13 +56302,6 @@ MXOnly-1.75U-Hotswap
 2
 MX_Only
 MXOnly-1.75U-NoLED
-
-
-0
-2
-2
-MX_Only
-MXOnly-1.75U-NoLED_3Pins
 
 
 0
@@ -56351,13 +56337,6 @@ MXOnly-1U-Hotswap-Antishear
 2
 MX_Only
 MXOnly-1U-NoLED
-
-
-0
-2
-2
-MX_Only
-MXOnly-1U-NoLED_3Pins
 
 
 0
@@ -56400,13 +56379,6 @@ MXOnly-2.25U-Hotswap-ReversedStabilizers
 2
 MX_Only
 MXOnly-2.25U-NoLED
-
-
-0
-2
-2
-MX_Only
-MXOnly-2.25U-NoLED_3Pins
 
 
 0
@@ -56469,13 +56441,6 @@ MXOnly-2.75U-NoLED
 2
 2
 MX_Only
-MXOnly-2.75U-NoLED_3Pins
-
-
-0
-2
-2
-MX_Only
 MXOnly-2.75U-ReversedStabilizers
 
 
@@ -56526,13 +56491,6 @@ MXOnly-2U-Hotswap-ReversedStabilizers
 2
 MX_Only
 MXOnly-2U-NoLED
-
-
-0
-2
-2
-MX_Only
-MXOnly-2U-NoLED_3Pins
 
 
 0
@@ -56631,13 +56589,6 @@ MXOnly-6.25U-Hotswap-ReversedStabilizers
 2
 MX_Only
 MXOnly-6.25U-NoLED
-
-
-0
-2
-2
-MX_Only
-MXOnly-6.25U-NoLED_3Pins
 
 
 0
@@ -82543,13 +82494,6 @@ WS2812B_data-bridgeable
 0
 12
 4
-bitmap
-Logo
-
-
-0
-0
-0
 random-keyboard-parts
 D_SOD-123-Pretty
 SOD-123

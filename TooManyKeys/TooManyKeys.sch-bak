@@ -874,15 +874,15 @@ Text GLabel 2300 4000 0    50   Input ~ 0
 COL10
 Text GLabel 2300 3900 0    50   Input ~ 0
 COL11
-Text GLabel 3700 4500 2    50   Input ~ 0
+Text GLabel 2250 3000 0    50   Input ~ 0
 COL12
-Text GLabel 3700 4600 2    50   Input ~ 0
+Text GLabel 2250 3100 0    50   Input ~ 0
 COL13
 Text GLabel 2250 3700 0    50   Input ~ 0
 COL14
-Text GLabel 2250 3100 0    50   Input ~ 0
+Text GLabel 3700 4600 2    50   Input ~ 0
 COL15
-Text GLabel 2250 3000 0    50   Input ~ 0
+Text GLabel 3700 4500 2    50   Input ~ 0
 COL16
 Text GLabel 2250 3600 0    50   Input ~ 0
 COL17

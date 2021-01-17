@@ -2350,8 +2350,6 @@ Text Label 3900 2400 2    50   ~ 0
 MISO
 Text Label 3900 2300 2    50   ~ 0
 MOSI
-Text Label 3900 2200 2    50   ~ 0
-SCK
 Wire Wire Line
 	3700 1300 3600 1300
 Wire Wire Line
@@ -2474,4 +2472,6 @@ U 5E8A6E89
 F0 "Matrix" 50
 F1 "Matrix.sch" 50
 $EndSheet
+Text Label 3900 2200 2    50   ~ 0
+SCK
 $EndSCHEMATC
