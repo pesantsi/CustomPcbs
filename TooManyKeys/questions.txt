@@ -9,7 +9,7 @@ Usb connector : HRO-TYPE-C-31-M-12
 oled : https://www.aliexpress.com/item/32950730252.html
 	   https://www.aliexpress.com/item/4000350633981.html
 led driver (2) : IS31FL3733-TQ
-led (111 ): XZMDKCBDDG45S
+led (111 ): XZMDKCBDDG45S -> QBLP677R-RGB
 
 
 led matrix : https://beta.docs.qmk.fm/using-qmk/hardware-features/lighting/feature_rgb_matrix
@@ -19,3 +19,18 @@ Led Matrix like and not row
 D- and D+ need to be of same length
 
 IS31FL3733-TQ D2 and E2 
+
+
+calculate cap values manually: https://community.nxp.com/t5/LPC-FAQs/How-to-calculate-the-value-of-crystal-load-capacitors/m-p/464589
+
+you may want to use an mcp1700 or any other available ldo that uses smaller caps
+just for ease of assembly/routing
+
+he pin of the mcu (at90usb) has stray capacitance
+and it also has internal capacitance from the pin to the crystal circuitry inside
+and if I recall correctly, I read in the datasheet, that these 2 values summed together are around 3 pF
+that's excluding the capacitance of your trace and pads, but you can assume that it's anywhere from 0pF to 4 pF I'd say
+
+
+
+AVR-ISP-6(SWR204-NRTN-D03-RA-GA)

@@ -25,6 +25,11 @@ D AT90USB1286-AU, 8 bit AVR Microcontroller 20MHz 128 kB, 4 kB Flash, 8 kB RAM, 
 F http://www.atmel.com/images/7593s.pdf
 $ENDCMP
 #
+$CMP IS31FL3733-QFLS4-TR
+D LED Display Drivers 12x16 Dot Matrix LED Driver, QFN-48 (6.0mm x 6.0mm), T&R
+F https://componentsearchengine.com/Datasheets/1/IS31FL3733-QFLS4-TR.pdf
+$ENDCMP
+#
 $CMP IS31FL3733-TQLS4
 D IC LED DRVR LINEAR ETQFP-48 DOT
 F http://www.issi.com/WW/pdf/IS31FL3733.pdf
@@ -38,6 +43,16 @@ $ENDCMP
 $CMP PCA9306DCUTG4
 D 2-bit bidirectional I2C bus and SMBus voltage-level shifter
 F http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=pca9306&fileType=pdf
+$ENDCMP
+#
+$CMP QBLP677R-RGB
+D LED RGB CLEAR 4SMD GW
+F http://www.sunledusa.com/products/spec/XZMDKCBDDG45S-9.pdf
+$ENDCMP
+#
+$CMP SWR204-NRTN-D03-ST-GA
+D CONN HEADER VERT 6POS 2MM
+F https://s3.amazonaws.com/catalogspreads-pdf/PAGE136-137%202mm%20SWR204%20DUAL%20ROW%20WAFER%20ST%20RA.pdf
 $ENDCMP
 #
 $CMP TL9320AF400QG
