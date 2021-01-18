@@ -2562,4 +2562,20 @@ Wire Notes Line
 	4600 5400 4600 600 
 Wire Notes Line
 	4600 600  1500 600 
+Text GLabel 11700 7800 2    50   Input ~ 0
+CS29
+Text GLabel 11700 7900 2    50   Input ~ 0
+CS30
+Text GLabel 11700 8000 2    50   Input ~ 0
+CS31
+Text GLabel 11700 8100 2    50   Input ~ 0
+CS32
+Wire Wire Line
+	11400 7800 11700 7800
+Wire Wire Line
+	11700 7900 11400 7900
+Wire Wire Line
+	11400 8000 11700 8000
+Wire Wire Line
+	11700 8100 11400 8100
 $EndSCHEMATC
