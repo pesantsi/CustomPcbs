@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+/TooManyKeys/Driver/Driver.Client/bin/Debug
+/TooManyKeys/Driver/Driver.Client/obj/Debug
+/TooManyKeys/Driver/Driver.Updater/bin/Debug
+/TooManyKeys/Driver/Driver.Updater/obj/Debug
