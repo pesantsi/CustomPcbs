@@ -5,5 +5,5 @@
   (lib (name "KiCad Lib")(type KiCad)(uri "C:/Git/CustomPcbs/KiCad Lib")(options "")(descr ""))
   (lib (name MX_Only)(type KiCad)(uri C:/Git/CustomPcbs/MX_Alps_Hybrid/MX_Only.pretty)(options "")(descr ""))
   (lib (name SamacSys_Parts)(type KiCad)(uri "C:/Git/CustomPcbs/KiCad Lib/SamacSys_Parts.pretty")(options "")(descr ""))
-  (lib (name Bitmap)(type KiCad)(uri C:/Git/CustomPcbs/TooManyKeys/bitmap.pretty)(options "")(descr ""))
+  (lib (name Bitmap)(type KiCad)(uri C:/Git/CustomPcbs/TooManyKeys/KiCad/bitmap.pretty)(options "")(descr ""))
 )
