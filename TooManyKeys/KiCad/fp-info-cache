@@ -1,4 +1,4 @@
-18997514178127209
+18999126196460178
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -75746,6 +75746,13 @@ Connector
 0
 32
 32
+SamacSys_Parts
+MXOnly-1U-NoLED_3Pins
+
+
+0
+2
+2
 SamacSys_Parts
 NE555DR
 D (R-PDSO-G8)
