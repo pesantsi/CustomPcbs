@@ -7,3 +7,8 @@
 /TooManyKeys/Driver/Driver.Client/obj/Debug
 /TooManyKeys/Driver/Driver.Updater/bin/Debug
 /TooManyKeys/Driver/Driver.Updater/obj/Debug
+/TooManyKeys/Driver/packages
+*.nupkg
+*.user
+/TooManyKeys/Driver/Driver.Nuget/bin/Debug
+/TooManyKeys/Driver/Driver.Nuget/obj/Debug
