@@ -46,8 +46,8 @@ F http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=pca9306
 $ENDCMP
 #
 $CMP QBLP677R-RGB
-D LED RGB CLEAR 4SMD GW
-F http://www.sunledusa.com/products/spec/XZMDKCBDDG45S-9.pdf
+D LED RGB DIFFUSED 4PLCC SMD
+F http://www.qt-brightek.com/datasheet/QBLP677R-RGB.pdf
 $ENDCMP
 #
 $CMP SWR204-NRTN-D03-ST-GA
