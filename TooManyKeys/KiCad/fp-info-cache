@@ -1,4 +1,4 @@
-19503880050912841
+19132301778549921
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -2821,13 +2821,6 @@ capacitor
 2
 2
 Capacitor_SMD
-C_0603_1608Metric_Pad1.05x0.95mm_HandSolder
-Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-capacitor handsolder
-0
-2
-2
-Capacitor_SMD
 C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
 Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 capacitor handsolder
@@ -2838,13 +2831,6 @@ Capacitor_SMD
 C_0805_2012Metric
 Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
 capacitor
-0
-2
-2
-Capacitor_SMD
-C_0805_2012Metric_Pad1.15x1.40mm_HandSolder
-Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
-capacitor handsolder
 0
 2
 2
@@ -2884,13 +2870,6 @@ capacitor handsolder
 2
 2
 Capacitor_SMD
-C_1206_3216Metric_Pad1.42x1.75mm_HandSolder
-Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-capacitor handsolder
-0
-2
-2
-Capacitor_SMD
 C_1210_3225Metric
 Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 capacitor
@@ -2905,37 +2884,9 @@ capacitor handsolder
 2
 2
 Capacitor_SMD
-C_1210_3225Metric_Pad1.42x2.65mm_HandSolder
-Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-capacitor handsolder
-0
-2
-2
-Capacitor_SMD
-C_1806_4516Metric
-Capacitor SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), generated with kicad-footprint-generator
-capacitor
-0
-2
-2
-Capacitor_SMD
-C_1806_4516Metric_Pad1.57x1.80mm_HandSolder
-Capacitor SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), generated with kicad-footprint-generator
-capacitor handsolder
-0
-2
-2
-Capacitor_SMD
 C_1812_4532Metric
 Capacitor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 capacitor
-0
-2
-2
-Capacitor_SMD
-C_1812_4532Metric_Pad1.30x3.40mm_HandSolder
-Capacitor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
-capacitor handsolder
 0
 2
 2
@@ -2956,27 +2907,6 @@ capacitor
 Capacitor_SMD
 C_1825_4564Metric_Pad1.57x6.80mm_HandSolder
 Capacitor SMD 1825 (4564 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-capacitor handsolder
-0
-2
-2
-Capacitor_SMD
-C_1825_4564Metric_Pad1.88x6.70mm_HandSolder
-Capacitor SMD 1825 (4564 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
-capacitor handsolder
-0
-2
-2
-Capacitor_SMD
-C_2010_5025Metric
-Capacitor SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-capacitor
-0
-2
-2
-Capacitor_SMD
-C_2010_5025Metric_Pad1.52x2.65mm_HandSolder
-Capacitor SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 capacitor handsolder
 0
 2
@@ -3005,34 +2935,6 @@ capacitor
 Capacitor_SMD
 C_2225_5664Metric_Pad1.80x6.60mm_HandSolder
 Capacitor SMD 2225 (5664 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
-capacitor handsolder
-0
-2
-2
-Capacitor_SMD
-C_2512_6332Metric
-Capacitor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-capacitor
-0
-2
-2
-Capacitor_SMD
-C_2512_6332Metric_Pad1.52x3.35mm_HandSolder
-Capacitor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-capacitor handsolder
-0
-2
-2
-Capacitor_SMD
-C_2816_7142Metric
-Capacitor SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
-capacitor
-0
-2
-2
-Capacitor_SMD
-C_2816_7142Metric_Pad3.20x4.45mm_HandSolder
-Capacitor SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
 capacitor handsolder
 0
 2
@@ -6496,13 +6398,6 @@ jack stereo TRS
 5
 5
 Connector_Audio
-Jack_3.5mm_Neutrik_NMJ6HCD2_Horizontal
-NMJ6HCD2, TRS 1/4in (http://www.neutrik.com/en/audio/plugs-and-jacks/m-series/nmj6hcd2)
-NMJ6HCD2 TRS stereo jack connector
-0
-6
-6
-Connector_Audio
 Jack_3.5mm_PJ311_Horizontal
 PJ311 6pin SMD 3.5mm stereo headphones jack.
 headphones jack plug stereo 3.5mm PJ311
@@ -8204,23 +8099,9 @@ DIN 41612 IEC 60603 B/2
 16
 16
 Connector_DIN
-DIN41612_B2_2x8_Horizontal
-DIN 41612 connector, type B/2, horizontal, 16 pins wide, 2 rows, even columns
-DIN 41512 IEC 60603 B/2
-0
-16
-16
-Connector_DIN
 DIN41612_B2_2x8_Male_Horizontal_THT
 DIN41612 connector, type B/2, Horizontal, 2 rows 16 pins wide, https://www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf
 DIN 41612 IEC 60603 B/2
-0
-16
-16
-Connector_DIN
-DIN41612_B2_2x8_Vertical
-DIN 41612 connector, type B/2, vertical, 16 pins wide, 2 rows, even columns
-DIN 41512 IEC 60603 B/2
 0
 16
 16
@@ -8232,23 +8113,9 @@ DIN 41612 IEC 60603 B/2
 32
 32
 Connector_DIN
-DIN41612_B2_2x16_Horizontal
-DIN 41612 connector, type B/2, horizontal, 16 pins wide, 2 rows, full configuration
-DIN 41512 IEC 60603 B/2
-0
-32
-32
-Connector_DIN
 DIN41612_B2_2x16_Male_Horizontal_THT
 DIN41612 connector, type B/2, Horizontal, 2 rows 16 pins wide, https://www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf
 DIN 41612 IEC 60603 B/2
-0
-32
-32
-Connector_DIN
-DIN41612_B2_2x16_Vertical
-DIN 41612 connector, type B/2, vertical, 16 pins wide, 2 rows, full configuration
-DIN 41512 IEC 60603 B/2
 0
 32
 32
@@ -8260,23 +8127,9 @@ DIN 41612 IEC 60603 B/3
 10
 10
 Connector_DIN
-DIN41612_B3_2x5_Horizontal
-DIN 41612 connector, type B/3, horizontal, 10 pins wide, 2 rows, even columns
-DIN 41512 IEC 60603 B/3
-0
-10
-10
-Connector_DIN
 DIN41612_B3_2x5_Male_Horizontal_THT
 DIN41612 connector, type B/3, Horizontal, 2 rows 10 pins wide, https://www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf
 DIN 41612 IEC 60603 B/3
-0
-10
-10
-Connector_DIN
-DIN41612_B3_2x5_Vertical
-DIN 41612 connector, type B/3, vertical, 10 pins wide, 2 rows, even columns
-DIN 41512 IEC 60603 B/3
 0
 10
 10
@@ -8288,23 +8141,9 @@ DIN 41612 IEC 60603 B/3
 20
 20
 Connector_DIN
-DIN41612_B3_2x10_Horizontal
-DIN 41612 connector, type B/3, horizontal, 10 pins wide, 2 rows, full configuration
-DIN 41512 IEC 60603 B/3
-0
-20
-20
-Connector_DIN
 DIN41612_B3_2x10_Male_Horizontal_THT
 DIN41612 connector, type B/3, Horizontal, 2 rows 10 pins wide, https://www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf
 DIN 41612 IEC 60603 B/3
-0
-20
-20
-Connector_DIN
-DIN41612_B3_2x10_Vertical
-DIN 41612 connector, type B/3, vertical, 10 pins wide, 2 rows, full configuration
-DIN 41512 IEC 60603 B/3
 0
 20
 20
@@ -8330,23 +8169,9 @@ DIN 41612 IEC 60603 B
 32
 32
 Connector_DIN
-DIN41612_B_2x16_Horizontal
-DIN 41612 connector, type B, horizontal, 32 pins wide, 2 rows, even columns
-DIN 41512 IEC 60603 B
-0
-32
-32
-Connector_DIN
 DIN41612_B_2x16_Male_Horizontal_THT
 DIN41612 connector, type B, Horizontal, 2 rows 32 pins wide, https://www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf
 DIN 41612 IEC 60603 B
-0
-32
-32
-Connector_DIN
-DIN41612_B_2x16_Vertical
-DIN 41612 connector, type B, vertical, 32 pins wide, 2 rows, even columns
-DIN 41512 IEC 60603 B
 0
 32
 32
@@ -8358,23 +8183,9 @@ DIN 41612 IEC 60603 B
 64
 64
 Connector_DIN
-DIN41612_B_2x32_Horizontal
-DIN 41612 connector, type B, horizontal, 32 pins wide, 2 rows, full configuration
-DIN 41512 IEC 60603 B
-0
-64
-64
-Connector_DIN
 DIN41612_B_2x32_Male_Horizontal_THT
 DIN41612 connector, type B, Horizontal, 2 rows 32 pins wide, https://www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf
 DIN 41612 IEC 60603 B
-0
-64
-64
-Connector_DIN
-DIN41612_B_2x32_Vertical
-DIN 41612 connector, type B, vertical, 32 pins wide, 2 rows, full configuration
-DIN 41512 IEC 60603 B
 0
 64
 64
@@ -12432,13 +12243,6 @@ Through hole horizontal IDC box header THT 2x05 2.54mm double row
 10
 10
 Connector_IDC
-IDC-Header_2x05_P2.54mm_Horizontal_Lock
-Connector IDC Locked, 10 contacts, compatible header: PANCON HE10 (Series 50, (https://www.reboul.fr/storage/00003af6.pdf)
-connector idc locked
-0
-12
-10
-Connector_IDC
 IDC-Header_2x05_P2.54mm_Latch6.5mm_Vertical
 Through hole IDC header, 2x05, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
 Through hole vertical IDC header THT 2x05 2.54mm double row
@@ -12479,13 +12283,6 @@ Through hole IDC box header, 2x05, 2.54mm pitch, DIN 41651 / IEC 60603-13, doubl
 Through hole vertical IDC box header THT 2x05 2.54mm double row
 0
 10
-10
-Connector_IDC
-IDC-Header_2x05_P2.54mm_Vertical_Lock
-Connector IDC Locked, 10 contacts, compatible header: PANCON HE10 (Series 50, (https://www.reboul.fr/storage/00003af6.pdf)
-connector idc locked
-0
-12
 10
 Connector_IDC
 IDC-Header_2x06-1MP_P2.54mm_Latch6.5mm_Vertical
@@ -12663,13 +12460,6 @@ Through hole vertical IDC box header THT 2x07 2.54mm double row
 14
 14
 Connector_IDC
-IDC-Header_2x07_P2.54mm_Vertical_Lock
-Connector IDC Locked, 10 contacts, compatible header: PANCON HE10 (Series 50, (https://www.reboul.fr/storage/00003af6.pdf)
-connector idc locked
-0
-16
-14
-Connector_IDC
 IDC-Header_2x08-1MP_P2.54mm_Latch6.5mm_Vertical
 Through hole IDC header, 2x08, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
 Through hole vertical IDC header THT 2x08 2.54mm double row
@@ -12710,13 +12500,6 @@ Through hole IDC box header, 2x08, 2.54mm pitch, DIN 41651 / IEC 60603-13, doubl
 Through hole horizontal IDC box header THT 2x08 2.54mm double row
 0
 16
-16
-Connector_IDC
-IDC-Header_2x08_P2.54mm_Horizontal_Lock
-Connector IDC Locked, 10 contacts, compatible header: PANCON HE10 (Series 50, (https://www.reboul.fr/storage/00003af6.pdf)
-connector idc locked
-0
-18
 16
 Connector_IDC
 IDC-Header_2x08_P2.54mm_Latch6.5mm_Vertical
@@ -12761,13 +12544,6 @@ Through hole vertical IDC box header THT 2x08 2.54mm double row
 16
 16
 Connector_IDC
-IDC-Header_2x08_P2.54mm_Vertical_Lock
-Connector IDC Locked, 10 contacts, compatible header: PANCON HE10 (Series 50, (https://www.reboul.fr/storage/00003af6.pdf)
-connector idc locked
-0
-18
-16
-Connector_IDC
 IDC-Header_2x10-1MP_P2.54mm_Latch6.5mm_Vertical
 Through hole IDC header, 2x10, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
 Through hole vertical IDC header THT 2x10 2.54mm double row
@@ -12810,13 +12586,6 @@ Through hole horizontal IDC box header THT 2x10 2.54mm double row
 20
 20
 Connector_IDC
-IDC-Header_2x10_P2.54mm_Horizontal_Lock
-Connector IDC Locked, 10 contacts, compatible header: PANCON HE10 (Series 50, (https://www.reboul.fr/storage/00003af6.pdf)
-connector idc locked
-0
-22
-20
-Connector_IDC
 IDC-Header_2x10_P2.54mm_Latch6.5mm_Vertical
 Through hole IDC header, 2x10, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
 Through hole vertical IDC header THT 2x10 2.54mm double row
@@ -12857,13 +12626,6 @@ Through hole IDC box header, 2x10, 2.54mm pitch, DIN 41651 / IEC 60603-13, doubl
 Through hole vertical IDC box header THT 2x10 2.54mm double row
 0
 20
-20
-Connector_IDC
-IDC-Header_2x10_P2.54mm_Vertical_Lock
-Connector IDC Locked, 10 contacts, compatible header: PANCON HE10 (Series 50, (https://www.reboul.fr/storage/00003af6.pdf)
-connector idc locked
-0
-22
 20
 Connector_IDC
 IDC-Header_2x12-1MP_P2.54mm_Latch6.5mm_Vertical
@@ -12992,13 +12754,6 @@ Through hole horizontal IDC box header THT 2x13 2.54mm double row
 26
 26
 Connector_IDC
-IDC-Header_2x13_P2.54mm_Horizontal_Lock
-Connector IDC Locked, 10 contacts, compatible header: PANCON HE10 (Series 50, (https://www.reboul.fr/storage/00003af6.pdf)
-connector idc locked
-0
-28
-26
-Connector_IDC
 IDC-Header_2x13_P2.54mm_Latch6.5mm_Vertical
 Through hole IDC header, 2x13, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
 Through hole vertical IDC header THT 2x13 2.54mm double row
@@ -13039,13 +12794,6 @@ Through hole IDC box header, 2x13, 2.54mm pitch, DIN 41651 / IEC 60603-13, doubl
 Through hole vertical IDC box header THT 2x13 2.54mm double row
 0
 26
-26
-Connector_IDC
-IDC-Header_2x13_P2.54mm_Vertical_Lock
-Connector IDC Locked, 10 contacts, compatible header: PANCON HE10 (Series 50, (https://www.reboul.fr/storage/00003af6.pdf)
-connector idc locked
-0
-28
 26
 Connector_IDC
 IDC-Header_2x15-1MP_P2.54mm_Latch6.5mm_Vertical
@@ -13174,13 +12922,6 @@ Through hole horizontal IDC box header THT 2x17 2.54mm double row
 34
 34
 Connector_IDC
-IDC-Header_2x17_P2.54mm_Horizontal_Lock
-Connector IDC Locked, 10 contacts, compatible header: PANCON HE10 (Series 50, (https://www.reboul.fr/storage/00003af6.pdf)
-connector idc locked
-0
-36
-34
-Connector_IDC
 IDC-Header_2x17_P2.54mm_Latch6.5mm_Vertical
 Through hole IDC header, 2x17, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
 Through hole vertical IDC header THT 2x17 2.54mm double row
@@ -13221,13 +12962,6 @@ Through hole IDC box header, 2x17, 2.54mm pitch, DIN 41651 / IEC 60603-13, doubl
 Through hole vertical IDC box header THT 2x17 2.54mm double row
 0
 34
-34
-Connector_IDC
-IDC-Header_2x17_P2.54mm_Vertical_Lock
-Connector IDC Locked, 10 contacts, compatible header: PANCON HE10 (Series 50, (https://www.reboul.fr/storage/00003af6.pdf)
-connector idc locked
-0
-36
 34
 Connector_IDC
 IDC-Header_2x20-1MP_P2.54mm_Latch6.5mm_Vertical
@@ -13272,13 +13006,6 @@ Through hole horizontal IDC box header THT 2x20 2.54mm double row
 40
 40
 Connector_IDC
-IDC-Header_2x20_P2.54mm_Horizontal_Lock
-Connector IDC Locked, 10 contacts, compatible header: PANCON HE10 (Series 50, (https://www.reboul.fr/storage/00003af6.pdf)
-connector idc locked
-0
-42
-41
-Connector_IDC
 IDC-Header_2x20_P2.54mm_Latch6.5mm_Vertical
 Through hole IDC header, 2x20, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
 Through hole vertical IDC header THT 2x20 2.54mm double row
@@ -13319,13 +13046,6 @@ Through hole IDC box header, 2x20, 2.54mm pitch, DIN 41651 / IEC 60603-13, doubl
 Through hole vertical IDC box header THT 2x20 2.54mm double row
 0
 40
-40
-Connector_IDC
-IDC-Header_2x20_P2.54mm_Vertical_Lock
-Connector IDC Locked, 10 contacts, compatible header: PANCON HE10 (Series 50, (https://www.reboul.fr/storage/00003af6.pdf)
-connector idc locked
-0
-42
 40
 Connector_IDC
 IDC-Header_2x25-1MP_P2.54mm_Latch6.5mm_Vertical
@@ -13412,13 +13132,6 @@ Through hole vertical IDC box header THT 2x25 2.54mm double row
 50
 50
 Connector_IDC
-IDC-Header_2x25_P2.54mm_Vertical_Lock
-Connector IDC Locked, 10 contacts, compatible header: PANCON HE10 (Series 50, (https://www.reboul.fr/storage/00003af6.pdf)
-connector idc locked
-0
-52
-50
-Connector_IDC
 IDC-Header_2x30-1MP_P2.54mm_Latch6.5mm_Vertical
 Through hole IDC header, 2x30, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
 Through hole vertical IDC header THT 2x30 2.54mm double row
@@ -13503,13 +13216,6 @@ Through hole vertical IDC box header THT 2x30 2.54mm double row
 60
 60
 Connector_IDC
-IDC-Header_2x30_P2.54mm_Vertical_Lock
-Connector IDC Locked, 10 contacts, compatible header: PANCON HE10 (Series 50, (https://www.reboul.fr/storage/00003af6.pdf)
-connector idc locked
-0
-62
-60
-Connector_IDC
 IDC-Header_2x32-1MP_P2.54mm_Latch6.5mm_Vertical
 Through hole IDC header, 2x32, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
 Through hole vertical IDC header THT 2x32 2.54mm double row
@@ -13592,13 +13298,6 @@ Through hole IDC box header, 2x32, 2.54mm pitch, DIN 41651 / IEC 60603-13, doubl
 Through hole vertical IDC box header THT 2x32 2.54mm double row
 0
 64
-64
-Connector_IDC
-IDC-Header_2x32_P2.54mm_Vertical_Lock
-Connector IDC Locked, 10 contacts, compatible header: PANCON HE10 (Series 50, (https://www.reboul.fr/storage/00003af6.pdf)
-connector idc locked
-0
-66
 64
 Connector_JAE
 JAE_LY20-4P-DLT1_2x02_P2.00mm_Horizontal
@@ -22007,139 +21706,6 @@ connector Molex SlimStack side entry
 0
 80
 80
-Connector_Multicomp
-Multicomp_MC9A12-1034_2x05_P2.54mm_Vertical
-http://www.farnell.com/datasheets/1520732.pdf
-connector multicomp MC9A MC9A12
-0
-10
-10
-Connector_Multicomp
-Multicomp_MC9A12-1434_2x07_P2.54mm_Vertical
-http://www.farnell.com/datasheets/1520732.pdf
-connector multicomp MC9A MC9A12
-0
-14
-14
-Connector_Multicomp
-Multicomp_MC9A12-1634_2x08_P2.54mm_Vertical
-http://www.farnell.com/datasheets/1520732.pdf
-connector multicomp MC9A MC9A12
-0
-16
-16
-Connector_Multicomp
-Multicomp_MC9A12-2034_2x10_P2.54mm_Vertical
-http://www.farnell.com/datasheets/1520732.pdf
-connector multicomp MC9A MC9A12
-0
-20
-20
-Connector_Multicomp
-Multicomp_MC9A12-2634_2x13_P2.54mm_Vertical
-http://www.farnell.com/datasheets/1520732.pdf
-connector multicomp MC9A MC9A12
-0
-26
-26
-Connector_Multicomp
-Multicomp_MC9A12-3434_2x17_P2.54mm_Vertical
-http://www.farnell.com/datasheets/1520732.pdf
-connector multicomp MC9A MC9A12
-0
-34
-34
-Connector_Multicomp
-Multicomp_MC9A12-4034_2x20_P2.54mm_Vertical
-http://www.farnell.com/datasheets/1520732.pdf
-connector multicomp MC9A MC9A12
-0
-40
-40
-Connector_Multicomp
-Multicomp_MC9A12-5034_2x25_P2.54mm_Vertical
-http://www.farnell.com/datasheets/1520732.pdf
-connector multicomp MC9A MC9A12
-0
-50
-50
-Connector_Multicomp
-Multicomp_MC9A12-6034_2x30_P2.54mm_Vertical
-http://www.farnell.com/datasheets/1520732.pdf
-connector multicomp MC9A MC9A12
-0
-60
-60
-Connector_Multicomp
-Multicomp_MC9A12-6434_2x32_P2.54mm_Vertical
-http://www.farnell.com/datasheets/1520732.pdf
-connector multicomp MC9A MC9A12
-0
-64
-64
-Connector_Multicomp
-Multicomp_MC9A22-1034_2x05_P2.54mm_Horizontal
-http://www.farnell.com/cad/360651.pdf
-connector multicomp MC9A MC9A22
-0
-10
-10
-Connector_Multicomp
-Multicomp_MC9A22-1434_2x07_P2.54mm_Horizontal
-http://www.farnell.com/cad/360651.pdf
-connector multicomp MC9A MC9A22
-0
-14
-14
-Connector_Multicomp
-Multicomp_MC9A22-1634_2x08_P2.54mm_Horizontal
-http://www.farnell.com/cad/360651.pdf
-connector multicomp MC9A MC9A22
-0
-16
-16
-Connector_Multicomp
-Multicomp_MC9A22-2034_2x10_P2.54mm_Horizontal
-http://www.farnell.com/cad/360651.pdf
-connector multicomp MC9A MC9A22
-0
-20
-20
-Connector_Multicomp
-Multicomp_MC9A22-2634_2x13_P2.54mm_Horizontal
-http://www.farnell.com/cad/360651.pdf
-connector multicomp MC9A MC9A22
-0
-26
-26
-Connector_Multicomp
-Multicomp_MC9A22-3434_2x17_P2.54mm_Horizontal
-http://www.farnell.com/cad/360651.pdf
-connector multicomp MC9A MC9A22
-0
-34
-34
-Connector_Multicomp
-Multicomp_MC9A22-4034_2x20_P2.54mm_Horizontal
-http://www.farnell.com/cad/360651.pdf
-connector multicomp MC9A MC9A22
-0
-40
-40
-Connector_Multicomp
-Multicomp_MC9A22-5034_2x25_P2.54mm_Horizontal
-http://www.farnell.com/cad/360651.pdf
-connector multicomp MC9A MC9A22
-0
-50
-50
-Connector_Multicomp
-Multicomp_MC9A22-6034_2x30_P2.54mm_Horizontal
-http://www.farnell.com/cad/360651.pdf
-connector multicomp MC9A MC9A22
-0
-60
-60
 Connector_PCBEdge
 4UCON_10156_2x40_P1.27mm_Socket_Horizontal
 4UCON 10156 Card edge socket with 80 contacts (40 each side), through-hole, http://www.4uconnector.com/online/object/4udrawing/10156.pdf
@@ -47313,48 +46879,6 @@ connector wire 2sqmm double-strain-relief
 6
 6
 Connector_Wire
-SolderWirePad_1x01_Drill0.8mm
-Wire solder connection
-connector
-0
-1
-1
-Connector_Wire
-SolderWirePad_1x01_Drill1.2mm
-Wire solder connection
-connector
-0
-1
-1
-Connector_Wire
-SolderWirePad_1x01_Drill1.5mm
-Wire solder connection
-connector
-0
-1
-1
-Connector_Wire
-SolderWirePad_1x01_Drill1mm
-Wire solder connection
-connector
-0
-1
-1
-Connector_Wire
-SolderWirePad_1x01_Drill2.5mm
-Wire solder connection
-connector
-0
-1
-1
-Connector_Wire
-SolderWirePad_1x01_Drill2mm
-Wire solder connection
-connector
-0
-1
-1
-Connector_Wire
 SolderWirePad_1x01_SMD_1x2mm
 Wire Pad, Square, SMD Pad,  5mm x 10mm,
 MesurementPoint Square SMDPad 5mmx10mm 
@@ -47368,174 +46892,6 @@ MesurementPoint Square SMDPad 5mmx10mm
 0
 1
 1
-Connector_Wire
-SolderWirePad_1x02_P3.81mm_Drill0.8mm
-Wire solder connection
-connector
-0
-2
-2
-Connector_Wire
-SolderWirePad_1x02_P3.81mm_Drill1.2mm
-Wire solder connection
-connector
-0
-2
-2
-Connector_Wire
-SolderWirePad_1x02_P3.81mm_Drill1mm
-Wire solder connection
-connector
-0
-2
-2
-Connector_Wire
-SolderWirePad_1x02_P5.08mm_Drill1.5mm
-Wire solder connection
-connector
-0
-2
-2
-Connector_Wire
-SolderWirePad_1x02_P7.62mm_Drill2.5mm
-Wire solder connection
-connector
-0
-2
-2
-Connector_Wire
-SolderWirePad_1x02_P7.62mm_Drill2mm
-Wire solder connection
-connector
-0
-2
-2
-Connector_Wire
-SolderWirePad_1x03_P3.81mm_Drill1.2mm
-Wire solder connection
-connector
-0
-3
-3
-Connector_Wire
-SolderWirePad_1x03_P3.175mm_Drill0.8mm
-Wire solder connection
-connector
-0
-3
-3
-Connector_Wire
-SolderWirePad_1x03_P3.175mm_Drill1mm
-Wire solder connection
-connector
-0
-3
-3
-Connector_Wire
-SolderWirePad_1x03_P4.445mm_Drill1.5mm
-Wire solder connection
-connector
-0
-3
-3
-Connector_Wire
-SolderWirePad_1x03_P5.715mm_Drill2mm
-Wire solder connection
-connector
-0
-3
-3
-Connector_Wire
-SolderWirePad_1x03_P7.62mm_Drill2.5mm
-Wire solder connection
-connector
-0
-3
-3
-Connector_Wire
-SolderWirePad_1x04_P3.81mm_Drill1.2mm
-Wire solder connection
-connector
-0
-4
-4
-Connector_Wire
-SolderWirePad_1x04_P3.81mm_Drill1mm
-Wire solder connection
-connector
-0
-4
-4
-Connector_Wire
-SolderWirePad_1x04_P3.175mm_Drill0.8mm
-Wire solder connection
-connector
-0
-4
-4
-Connector_Wire
-SolderWirePad_1x04_P5.08mm_Drill1.5mm
-Wire solder connection
-connector
-0
-4
-4
-Connector_Wire
-SolderWirePad_1x04_P6.35mm_Drill2mm
-Wire solder connection
-connector
-0
-4
-4
-Connector_Wire
-SolderWirePad_1x04_P7.62mm_Drill2.5mm
-Wire solder connection
-connector
-0
-4
-4
-Connector_Wire
-SolderWirePad_2x02_P2.54mm_Drill0.8mm
-Wire solder connection
-connector
-0
-4
-4
-Connector_Wire
-SolderWirePad_2x02_P3.81mm_Drill1.2mm
-Wire solder connection
-connector
-0
-4
-4
-Connector_Wire
-SolderWirePad_2x02_P3.81mm_Drill1mm
-Wire solder connection
-connector
-0
-4
-4
-Connector_Wire
-SolderWirePad_2x02_P5.08mm_Drill1.5mm
-Wire solder connection
-connector
-0
-4
-4
-Connector_Wire
-SolderWirePad_2x02_P6.35mm_Drill2mm
-Wire solder connection
-connector
-0
-4
-4
-Connector_Wire
-SolderWirePad_2x02_P7.62mm_Drill2.5mm
-Wire solder connection
-connector
-0
-4
-4
 Connector_Wuerth
 Wuerth_WR-WTB_64800211622_1x02_P1.50mm_Vertical
 Wuerth WR-WTB series connector, 64800211622 (https://katalog.we-online.com/em/datasheet/6480xx11622.pdf), generated with kicad-footprint-generator
@@ -48142,13 +47498,6 @@ Converter_DCDC
 Converter_DCDC_muRata_NMAxxxxSC_THT
 muRata NMAxxxxSC footprint based on SIP7, http://power.murata.com/data/power/ncl/kdc_nma.pdf
 muRata NMAxxxxSC DCDC-Converter
-0
-5
-5
-Converter_DCDC
-Converter_DCDC_muRata_NXE2SxxxxMC_THT
-Isolated 2W Single Output SM DC/DC Converters, http://power.murata.com/data/power/ncl/kdc_nxe2.pdf
-Isolated 2W Single Output SM DC/DC Converters
 0
 5
 5
@@ -49569,27 +48918,6 @@ diode castellated
 Diode_SMD
 D_1210_3225Metric_Pad1.42x2.65mm_HandSolder
 Diode SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-diode handsolder
-0
-2
-2
-Diode_SMD
-D_1806_4516Metric
-Diode SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), generated with kicad-footprint-generator
-diode
-0
-2
-2
-Diode_SMD
-D_1806_4516Metric_Castellated
-Diode SMD 1806 (4516 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), generated with kicad-footprint-generator
-diode castellated
-0
-2
-2
-Diode_SMD
-D_1806_4516Metric_Pad1.57x1.80mm_HandSolder
-Diode SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), generated with kicad-footprint-generator
 diode handsolder
 0
 2
@@ -51050,237 +50378,6 @@ LCD 16x2 Alphanumeric 16pin
 0
 20
 16
-Display Oled
-AG12864E
-STN/FSTN LCD 128x64 dot https://www.digchip.com/datasheets/parts/datasheet/1121/AG-12864E-pdf.php
-AG12864E Graphics Display 128x64 Ampire
-0
-24
-20
-Display Oled
-Adafruit_SSD1306
-Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI https://learn.adafruit.com/monochrome-oled-breakouts/downloads
-Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI 
-0
-8
-8
-Display Oled
-Adafruit_SSD1306_No_Mounting_Holes
-Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI https://learn.adafruit.com/monochrome-oled-breakouts/downloads
-Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI 
-0
-8
-8
-Display Oled
-CR2013-MI2120
-CR2013-MI2120 ILI9341 LCD Breakout http://pan.baidu.com/s/11Y990
-CR2013-MI2120 ILI9341 LCD Breakout
-0
-18
-14
-Display Oled
-EA-eDIP128B-XXX
-LCD-graphical display with LED backlight 128x64 RS-232 I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip128-6e.pdf
-LCD-graphical display with LED backlight 128x64 RS-232 I2C or SPI
-0
-32
-32
-Display Oled
-EA_DOGS104X-A
-LCD 4x10 character 3.3V VDD I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/doma/dogs104e.pdf
-LCD 4x10 character 3.3V VDD I2C or SPI
-0
-14
-14
-Display Oled
-EA_DOGXL160-7
-Grapchical,Display,LCD,160x104 http://www.lcd-module.com/eng/pdf/grafik/dogxl160-7e.pdf
-EA_DOGXL160-7
-0
-22
-22
-Display Oled
-EA_DOGXL160-7_Backlight
-Grapchical,Display,LCD,160x104 http://www.lcd-module.com/eng/pdf/grafik/dogxl160-7e.pdf
-EA_DOGXL160-7_Backlight
-0
-22
-22
-Display Oled
-EA_T123X-I2C
-http://www.lcd-module.de/pdf/doma/t123-i2c.pdf
-3 Line 12 character wide alpha numeric LCD
-0
-6
-6
-Display Oled
-EA_eDIP160-XXX
-LCD-graphical display with LED backlight 160x104 RS-232 I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip160-7e.pdf
-LCD-graphical display with LED backlight 160x104 RS-232 I2C or SPI
-0
-40
-40
-Display Oled
-EA_eDIP240-XXX
-LCD graphical display LED backlight 240x128 http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip240-7e.pdf
-LCD graphical display LED backlight 240x128
-0
-40
-40
-Display Oled
-EA_eDIP320X-XXX
-LCD display 320x340 RS-232 I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip320-8e.pdf
-LCD display 320x340 RS-232 I2C or SPI
-0
-48
-48
-Display Oled
-EA_eDIPTFT32-XXX
-TFT-graphic display 320x240 16 bit colour with led backlight http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft32-ae.pdf
-TFT-graphic display 320x240 16 bit colour with led backlight
-0
-40
-40
-Display Oled
-EA_eDIPTFT43-ATC
-http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft43-ae.pdf
-TFT graphical display 480x272 16-bit colour with LED backlight
-0
-40
-40
-Display Oled
-EA_eDIPTFT43-XXX
-TFT graphical display 480x272 16-bit colour with LED backlight http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft43-ae.pdf
-TFT graphical display 480x272 16-bit colour with LED backlight
-0
-40
-40
-Display Oled
-EA_eDIPTFT57-XXX
-http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft57-ae.pdf
-TFT-graphic display 640x480 16 bit colour
-0
-48
-48
-Display Oled
-EA_eDIPTFT70-ATC
-TFT-graphical display 800x480 16-bit colours with capacitive touch panel http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft70-ae.pdf
-TFT-graphical display 800x480 16-bit colours with capacitive touch panel
-0
-48
-48
-Display Oled
-EA_eDIPTFT70-XXX
-TFT-graphical display 800x480 16-bit colours http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft70-ae.pdf
-TFT-graphical display 800x480 16-bit colours and touch display
-0
-48
-48
-Display Oled
-HDSM-441B_HDSM-443B
-2 Digit 7 segemnt blue LED, right hand decimal, https://docs.broadcom.com/docs/AV02-1589EN
-2 Digit 7 segment blue LED
-0
-10
-10
-Display Oled
-HDSM-541B_HDSM-543B
-2 digit 7 segement blue LED with right hand decimal, https://docs.broadcom.com/docs/AV02-1588EN
-2 digit 7 segement blue LED with right hand decimal
-0
-10
-10
-Display Oled
-HDSP-48xx
-10-Element Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
-10-Element Bar Graph Array
-0
-20
-20
-Display Oled
-HDSP-4830
-10-Element Red Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
-10-Element Red Bar Graph Array
-0
-20
-20
-Display Oled
-HDSP-4832
-10-Element Red Yellow Green Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
-10-Element Red Yellow Green Bar Graph Array
-0
-20
-20
-Display Oled
-HDSP-4836
-10-Element Red Yellow Green Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
-10-Element Red Yellow Green Bar Graph Array
-0
-20
-20
-Display Oled
-HDSP-4840
-10-Element Yellow Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
-10-Element Yellow Bar Graph Array
-0
-20
-20
-Display Oled
-HDSP-4850
-10-Element Green Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
-10-Element Green Bar Graph Array
-0
-20
-20
-Display Oled
-HLCP-J100
-10-Element Red Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
-10-Element Red Bar Graph Array
-0
-20
-20
-Display Oled
-HY1602E
-http://www.icbank.com/data/ICBShop/board/HY1602E.pdf
-LCD 16x2 Alphanumeric 16pin
-0
-20
-16
-Display Oled
-LCD-016N002L
-16 x 2 Character LCD, http://www.vishay.com/product?docid=37299
-LCD-016N002L 16 x 2 Character LCD
-0
-24
-20
-Display Oled
-LM16255
-LCD LM16255 16x2 character http://www.datasheetlib.com/datasheet/259542/lm16255_sharp-electronics.html
-LCD 12x2
-0
-14
-14
-Display Oled
-NHD-0420H1Z
-NHD-0420H1Z LCD http://www.newhavendisplay.com/specs/NHD-0420H1Z-FSW-GBW-33V3.pdf
-NHD-0420H1Z LCD
-0
-16
-16
-Display Oled
-RC1602A
-http://www.raystar-optronics.com/down.php?ProID=18
-LCD 16x2 Alphanumeric 16pin
-0
-22
-18
-Display Oled
-WC1602A
-LCD 16x2 http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf
-LCD 16x2 Alphanumeric 16pin
-0
-20
-16
 Display_7Segment
 7SEGMENT-LED__HDSM531_HDSM533_SMD
 7-Segment Display, HDSM53x, https://docs.broadcom.com/docs/AV02-0713EN
@@ -51786,13 +50883,6 @@ emi filter
 5
 5
 Fuse
-Fuse_0201_0603Metric
-Fuse SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
-resistor
-0
-4
-2
-Fuse
 Fuse_0402_1005Metric
 Fuse SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 fuse
@@ -51856,13 +50946,6 @@ fuse handsolder
 2
 2
 Fuse
-Fuse_01005_0402Metric
-Fuse SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
-resistor
-0
-4
-2
-Fuse
 Fuse_1206_3216Metric
 Fuse SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 fuse
@@ -51901,20 +50984,6 @@ Fuse
 Fuse_1210_3225Metric_Pad1.42x2.65mm_HandSolder
 Fuse SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 fuse handsolder
-0
-2
-2
-Fuse
-Fuse_1806_4516Metric
-Fuse SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Fuse
-Fuse_1806_4516Metric_Pad1.57x1.80mm_HandSolder
-Fuse SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), generated with kicad-footprint-generator
-resistor handsolder
 0
 2
 2
@@ -56133,13 +55202,6 @@ LED handsolder
 2
 2
 LED_SMD
-LED_01005_0402Metric
-LED SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
-LED
-0
-4
-2
-LED_SMD
 LED_1206_3216Metric
 LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 LED
@@ -56184,27 +55246,6 @@ LED castellated
 LED_SMD
 LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder
 LED SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-LED handsolder
-0
-2
-2
-LED_SMD
-LED_1806_4516Metric
-LED SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), generated with kicad-footprint-generator
-diode
-0
-2
-2
-LED_SMD
-LED_1806_4516Metric_Castellated
-LED SMD 1806 (4516 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), generated with kicad-footprint-generator
-LED castellated
-0
-2
-2
-LED_SMD
-LED_1806_4516Metric_Pad1.57x1.80mm_HandSolder
-LED SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), generated with kicad-footprint-generator
 LED handsolder
 0
 2
@@ -60403,13 +59444,6 @@ BGA 381 0.8
 381
 381
 Package_BGA
-Linear_BGA-133_15.0x15.0_Layout12x12_P1.27mm
-Analog Devices (Linear Tech), 133-pin BGA uModule, 15.0x15.0x4.92mm, https://www.analog.com/media/en/technical-documentation/data-sheets/4637fc.pdf
-133 pin bga
-0
-134
-134
-Package_BGA
 Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm
 Analog Devices (Linear Tech), 133-pin BGA uModule, 15.0x15.0x4.92mm, https://www.analog.com/media/en/technical-documentation/data-sheets/4637fc.pdf
 133 pin bga
@@ -62426,13 +61460,6 @@ QFN NoLead
 17
 13
 Package_DFN_QFN
-QFN-14-1EP_1.6x1.6mm_P0.4mm_EP0.74x0.74mm
-QFN, 14 Pin (http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-19
-15
-Package_DFN_QFN
 QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm
 QFN, 16 Pin (https://www.st.com/resource/en/datasheet/tsv521.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 QFN NoLead
@@ -63833,13 +62860,6 @@ UQFN DFN 0.5 ST
 6
 6
 Package_DFN_QFN
-SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm
-20-Lead Plastic Quad Flat, No Lead Package - 3x3 mm Body [QFN] with corner pads; see figure 8.2 of https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf
-QFN 0.5
-0
-25
-21
-Package_DFN_QFN
 SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm
 20-Lead Plastic Quad Flat, No Lead Package - 3x3 mm Body [QFN] with corner pads; see figure 8.2 of https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf
 QFN 0.5
@@ -63848,13 +62868,6 @@ QFN 0.5
 21
 Package_DFN_QFN
 SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm_ThermalVias
-20-Lead Plastic Quad Flat, No Lead Package - 3x3 mm Body [QFN] with corner pads and thermal vias; see figure 8.2 of https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf
-QFN 0.5
-0
-31
-21
-Package_DFN_QFN
-SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_ThermalVias
 20-Lead Plastic Quad Flat, No Lead Package - 3x3 mm Body [QFN] with corner pads and thermal vias; see figure 8.2 of https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf
 QFN 0.5
 0
@@ -67213,13 +66226,6 @@ LGA 28 5.2x3.8mm Pitch 0.5mm
 0
 28
 28
-Package_LGA
-Linear_LGA-133_15.0x15.0_Layout12x12_P1.27mm
-Analog Devices (Linear Tech), 133-pin LGA uModule, 15.0x15.0x4.32mm, https://www.analog.com/media/en/technical-documentation/data-sheets/4637fc.pdf
-133 pin lga
-0
-133
-133
 Package_LGA
 Linear_LGA-133_15.0x15.0mm_Layout12x12_P1.27mm
 Analog Devices (Linear Tech), 133-pin LGA uModule, 15.0x15.0x4.32mm, https://www.analog.com/media/en/technical-documentation/data-sheets/4637fc.pdf
@@ -75551,13 +74557,6 @@ resistor handsolder
 2
 2
 Resistor_SMD
-R_0603_1608Metric_Pad1.05x0.95mm_HandSolder
-Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
 R_0612_1632Metric
 Resistor SMD 0612 (1632 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20019/rcwe.pdf), generated with kicad-footprint-generator
 resistor
@@ -75579,13 +74578,6 @@ resistor
 2
 2
 Resistor_SMD
-R_0805_2012Metric_Pad1.15x1.40mm_HandSolder
-Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
 Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 resistor handsolder
@@ -75602,13 +74594,6 @@ resistor
 Resistor_SMD
 R_0815_2038Metric_Pad1.20x4.05mm_HandSolder
 Resistor SMD 0815 (2038 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.susumu.co.jp/common/pdf/n_catalog_partition07_en.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_0815_2038Metric_Pad1.53x4.00mm_HandSolder
-Resistor SMD 0815 (2038 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.yageo.com/documents/recent/PYu-PRPFPH_521_RoHS_L_0.pdf), generated with kicad-footprint-generator
 resistor handsolder
 0
 2
@@ -75656,13 +74641,6 @@ resistor handsolder
 2
 2
 Resistor_SMD
-R_1206_3216Metric_Pad1.42x1.75mm_HandSolder
-Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
 R_1210_3225Metric
 Resistor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 resistor
@@ -75677,13 +74655,6 @@ resistor handsolder
 2
 2
 Resistor_SMD
-R_1210_3225Metric_Pad1.42x2.65mm_HandSolder
-Resistor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
 R_1218_3246Metric
 Resistor SMD 1218 (3246 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20035/dcrcwe3.pdf), generated with kicad-footprint-generator
 resistor
@@ -75693,20 +74664,6 @@ resistor
 Resistor_SMD
 R_1218_3246Metric_Pad1.22x4.75mm_HandSolder
 Resistor SMD 1218 (3246 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20035/dcrcwe3.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_1806_4516Metric
-Resistor SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
-R_1806_4516Metric_Pad1.57x1.80mm_HandSolder
-Resistor SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), generated with kicad-footprint-generator
 resistor handsolder
 0
 2
@@ -75740,13 +74697,6 @@ resistor handsolder
 2
 2
 Resistor_SMD
-R_2010_5025Metric_Pad1.52x2.65mm_HandSolder
-Resistor SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
 R_2512_6332Metric
 Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 resistor
@@ -75756,13 +74706,6 @@ resistor
 Resistor_SMD
 R_2512_6332Metric_Pad1.40x3.35mm_HandSolder
 Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_2512_6332Metric_Pad1.52x3.35mm_HandSolder
-Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 resistor handsolder
 0
 2
@@ -83586,629 +82529,6 @@ WS2812B_data-bridgeable
 0
 12
 4
-keyboard_parts
-4P4C
-http://www.assmann.us/specs/A-2004-3-4-LP-N-R_REV00.pdf
-4P4C, RJ
-0
-6
-6
-keyboard_parts
-ALPS_PLATE_SPRING
-http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
-ALPS, keyboard switch, SKCM, SKCL
-0
-4
-3
-keyboard_parts
-ALPS_PLATE_SPRING_CUTOUT
-
-
-0
-0
-0
-keyboard_parts
-ALPS_SKCM
-http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
-ALPS, keyboard switch, SKCM, SKCL
-0
-2
-2
-keyboard_parts
-ALPS_SKCM_CUTOUT
-
-
-0
-0
-0
-keyboard_parts
-ALPS_SKCM_CUTOUT_STAB256
-
-
-0
-0
-0
-keyboard_parts
-ALPS_SKCM_CUTOUT_STAB406
-
-
-0
-0
-0
-keyboard_parts
-ALPS_SKCM_CUTOUT_STAB883
-
-
-0
-0
-0
-keyboard_parts
-ALPS_SKCM_LED
-http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
-ALPS, keyboard switch, SKCM, SKCL
-0
-4
-4
-keyboard_parts
-ALPS_SKCM_reverse_pad
-http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
-ALPS, keyboard switch, SKCM, SKCL
-0
-2
-2
-keyboard_parts
-AVR_ICSP_3x2
-Double rangee de contacts 2 x 4 pins
-CONN
-0
-6
-6
-keyboard_parts
-C_1608
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-keyboard_parts
-C_1608_rev2
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-keyboard_parts
-C_3216
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-keyboard_parts
-C_3216_rev2
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-keyboard_parts
-C_3225
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-keyboard_parts
-C_3528
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-keyboard_parts
-C_3528_pol
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-keyboard_parts
-C_6032
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-keyboard_parts
-DSUB9P
-
-
-0
-11
-10
-keyboard_parts
-D_SC79
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-keyboard_parts
-D_SOD123
-
-
-0
-2
-2
-keyboard_parts
-D_SOD123W_hand
-
-
-0
-2
-2
-keyboard_parts
-D_SOD123_axial
-
-
-0
-6
-2
-keyboard_parts
-D_SOD123_hand
-
-
-0
-2
-2
-keyboard_parts
-D_axial
-
-
-0
-2
-2
-keyboard_parts
-FA-238
-
-
-0
-4
-3
-keyboard_parts
-HC-49_SMT
-
-
-0
-2
-2
-keyboard_parts
-HHKB_JP_HRS_DF14_15P
-http://www.mouser.com/ds/2/185/e53800017-12550.pdf
-HHKB JP, HRS, Hirose, DF14, 15P
-0
-17
-17
-keyboard_parts
-HHKB_PRO2_ZH13
-http://www.jst-mfg.com/product/pdf/eng/eZH.pdf
-HHKB pro2, JST, ZH
-0
-15
-15
-keyboard_parts
-HHKB_PRO2_ZH13_TH
-http://www.jst-mfg.com/product/pdf/eng/eZH.pdf
-JST ZH 13 HHKB pro2
-0
-13
-13
-keyboard_parts
-HHKB_PRO_PH15
-http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
-JST PH 15 HHKB PRO
-0
-15
-15
-keyboard_parts
-HOLE_M2.6
-
-
-0
-1
-1
-keyboard_parts
-HOLE_M3
-
-
-0
-1
-1
-keyboard_parts
-HRS_DF14_20P
-http://www.mouser.com/ds/2/185/e53800017-12550.pdf
-HHKB JP, HRS, Hirose, DF14, 15P
-0
-22
-22
-keyboard_parts
-JST_PH2_SMT
-http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
-JST, PH, Lipo, battery
-0
-4
-3
-keyboard_parts
-JST_PH2_SMT_TH
-http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
-JST, PH, Lipo, battery
-0
-6
-3
-keyboard_parts
-JST_PH2_TH
-
-JST, PH2, Lipo
-0
-2
-2
-keyboard_parts
-LED_0805
-LED 0805 smd package
-LED 0805 SMD
-0
-2
-2
-keyboard_parts
-LED_2012_HSOL
-LED 0805 smd package
-LED 0805 SMD
-0
-2
-2
-keyboard_parts
-LED_3020_REFLOW
-LED 0805 smd package
-LED 0805 SMD
-0
-2
-2
-keyboard_parts
-LED_3025_DUAL
-
-
-0
-4
-4
-keyboard_parts
-LED_TH
-LED 3mm - Lead pitch 100mil (2,54mm)
-LED led 3mm 3MM 100mil 2,54mm
-0
-2
-2
-keyboard_parts
-LED_TH_BIVAR
-LED 3mm - Lead pitch 100mil (2,54mm)
-LED led 3mm 3MM 100mil 2,54mm
-0
-2
-2
-keyboard_parts
-LTC4054
-
-Lipo charger
-0
-5
-5
-keyboard_parts
-L_6x6MM
-
-
-0
-2
-2
-keyboard_parts
-L_7x7MM
-
-
-0
-2
-2
-keyboard_parts
-MINI_DIN_8
-
-
-0
-11
-9
-keyboard_parts
-MOS_FET_SOT23-3_HSOL
-SOT23
-
-0
-3
-3
-keyboard_parts
-PIN_1
-
-CONN pin 1 circle
-0
-1
-1
-keyboard_parts
-PIN_1_SQUARE
-
-CONN pin 1 square
-0
-1
-1
-keyboard_parts
-PPTC_nano
-
-
-0
-2
-2
-keyboard_parts
-PTC_3225
-
-
-0
-2
-2
-keyboard_parts
-Poker_oval_hole
-
-
-0
-1
-0
-keyboard_parts
-Poker_side_edge_long
-
-
-0
-1
-0
-keyboard_parts
-QFP32
-
-
-0
-32
-32
-keyboard_parts
-QFP32_reflow
-http://www.atmel.com/images/atmel-8826-seeprom-pcb-mounting-guidelines-surface-mount-packages-applicationnote.pdf
-
-0
-32
-32
-keyboard_parts
-QFP44
-
-
-0
-44
-44
-keyboard_parts
-QFP44_reflow
-http://www.atmel.com/images/atmel-8826-seeprom-pcb-mounting-guidelines-surface-mount-packages-applicationnote.pdf
-
-0
-44
-44
-keyboard_parts
-RN42
-
-
-0
-32
-32
-keyboard_parts
-R_1608
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-keyboard_parts
-R_1608_NOGUIDE
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-keyboard_parts
-R_1608_rev2
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-keyboard_parts
-R_2012
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-keyboard_parts
-SLP3-200-100-F
-
-
-0
-0
-0
-keyboard_parts
-SM_3216_POL
-
-
-0
-2
-2
-keyboard_parts
-SOLDER_JUMPER_2
-
-solder jumper bridge configuration
-0
-2
-2
-keyboard_parts
-SOLDER_JUMPER_2_WIRED
-
-solder jumper bridge configuration
-0
-3
-1
-keyboard_parts
-SOLDER_JUMPER_3
-
-solder jumper bridge configuration
-0
-3
-3
-keyboard_parts
-SOT23-3_HSOL
-SOT23
-
-0
-3
-3
-keyboard_parts
-SOT23-5_HSOL
-SOT23
-
-0
-5
-5
-keyboard_parts
-SOT23-6_HSOL
-SOT23
-
-0
-6
-6
-keyboard_parts
-SW_ALPS_SKRP
-
-
-0
-4
-2
-keyboard_parts
-SW_ALPS_SKSG
-
-
-0
-6
-4
-keyboard_parts
-SW_ALPS_SSAA
-
-
-0
-8
-8
-keyboard_parts
-SW_MINI_SLIDE
-
-
-0
-6
-6
-keyboard_parts
-SW_TACT_TH_HORIZ
-http://www.alps.com/products/WebObjects/catalog.woa/E/HTML/Tact/SnapIn/SKHH/SKHHLMA010.html
-ALPS SKHH tactile switch
-0
-4
-4
-keyboard_parts
-SW_TACT_TH_HORIZ_LOW
-http://www.alps.com/products/WebObjects/catalog.woa/E/HTML/Tact/SnapIn/SKHL/SKHLLAA010.html
-ALPS SKHLL low tactile switch
-0
-4
-4
-keyboard_parts
-USB_A
-
-
-0
-6
-5
-keyboard_parts
-USB_A_PLUG
-
-
-0
-8
-6
-keyboard_parts
-USB_microB
-USB microB hirose ZX62R-B-5P
-USB micorB hirose
-0
-11
-6
-keyboard_parts
-USB_miniB
-http://www.hirose.co.jp/cataloge_hp/e24000019.pdf
-USB miniB hirose
-0
-9
-9
-keyboard_parts
-USB_miniB_hirose_5S8
-USB miniB hirose UX60SC-MB-5S8
-USB miniB hirose through hole UX60SC-MB-5S8
-0
-9
-6
-keyboard_parts
-USB_miniB_hirose_5ST
-USB miniB hirose UX60SC_MB_5ST
-USB miniB hirose new
-0
-7
-6
-keyboard_parts
-USB_miniB_hirose_5ST_hand
-USB miniB hirose UX60SC_MB_5ST
-USB miniB hirose new
-0
-7
-6
-keyboard_parts
-WT12_bluegiga
-
-BlueGiga, WT12, Bluetooth
-0
-31
-31
-keyboard_parts
-XTAL_HC_49_TH
-
-
-0
-2
-2
-keyboard_parts
-tmk2016
-
-
-0
-0
-0
-keyboard_parts
-tmk_logo
-
-
-0
-0
-0
 random-keyboard-parts
 D_SOD-123-Pretty
 SOD-123
