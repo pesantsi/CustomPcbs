@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name random-keyboard-parts)(type KiCad)(uri F:/Git/CustomPcbs/random-keyboard-parts.pretty)(options "")(descr ""))
+  (lib (name WS2812B)(type KiCad)(uri F:/Git/CustomPcbs/WS2812B.pretty)(options "")(descr ""))
+  (lib (name Type-C)(type KiCad)(uri F:/Git/CustomPcbs/Type-C.pretty)(options "")(descr ""))
+  (lib (name "KiCad Lib")(type KiCad)(uri "F:/Git/CustomPcbs/KiCad Lib")(options "")(descr ""))
+  (lib (name MX_Only)(type KiCad)(uri F:/Git/CustomPcbs/MX_Alps_Hybrid/MX_Only.pretty)(options "")(descr ""))
+  (lib (name SamacSys_Parts)(type KiCad)(uri "F:/Git/CustomPcbs/KiCad Lib/SamacSys_Parts.pretty")(options "")(descr ""))
+  (lib (name "Display Oled")(type KiCad)(uri F:/Git/CustomPcbs/Display.pretty)(options "")(descr ""))
+)
