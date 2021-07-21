@@ -710,9 +710,9 @@ Text GLabel 4200 4100 2    50   Input ~ 0
 SCL
 Text GLabel 4200 4200 2    50   Input ~ 0
 SDA
-Text GLabel 4200 1600 2    50   Input ~ 0
+Text GLabel 2800 3200 0    50   Input ~ 0
 ROW1
-Text GLabel 4200 1500 2    50   Input ~ 0
+Text GLabel 2800 3300 0    50   Input ~ 0
 ROW0
 Text GLabel 4200 3200 2    50   Input ~ 0
 COL00
@@ -1552,9 +1552,9 @@ F 3 "" H 13750 3000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4200 1500 4100 1500
+	2800 3300 2900 3300
 Wire Wire Line
-	4200 1600 4100 1600
+	2800 3200 2900 3200
 Text GLabel 10350 2400 0    50   Input ~ 0
 RESET
 Text GLabel 5700 7550 0    50   Input ~ 0
@@ -2437,8 +2437,6 @@ NoConn ~ 4100 3600
 NoConn ~ 4100 3700
 NoConn ~ 4100 3800
 NoConn ~ 4100 3900
-NoConn ~ 2900 3200
-NoConn ~ 2900 3300
 NoConn ~ 2900 3800
 NoConn ~ 2900 3900
 NoConn ~ 2900 4100
@@ -2663,4 +2661,6 @@ F 3 "~" H 13450 8700 50  0001 C CNN
 	1    13450 8750
 	1    0    0    -1  
 $EndComp
+NoConn ~ 4100 1500
+NoConn ~ 4100 1600
 $EndSCHEMATC
